@@ -5,7 +5,7 @@ The ACT was introduced as an alternative standardized test to the SAT in 1959. T
 
 In the three years from 2017 to 2019, ACT participation rates saw a general declining trend (national 60% in 2017 to 52% in 2019) while SAT participation rates saw an increase (more than 1.8 million in 2017 to more than 2.2 million in 2019).
 
-What are the contributing factors for this trend? As a stakeholder in College Board, how can we further increase the popularity of SAT?
+What are the contributing factors for this trend? How can we further increase the popularity of SAT?
 
 ## Data Dictionary
 |Feature|Type|Dataset(s)|Description|
