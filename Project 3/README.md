@@ -19,11 +19,11 @@ After data cleaning, there were 995 and 976 Japanese and Korean posts.
 
 ### Sentiment Analysis
 =================== Japanese ==================<br>
-Positive: Average is 0.116, Proportion is 0.687
+Positive: Average is 0.116, Proportion is 0.687<br>
 Negative: Average is 0.037, Proportion is 0.155
 
 ==================== Korean ===================<br>
-Positive: Average is 0.12, Proportion is 0.642
+Positive: Average is 0.12, Proportion is 0.642<br>
 Negative: Average is 0.031, Proportion is 0.121
 
 ### Recommendations to Potential Learners
