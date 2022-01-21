@@ -8,7 +8,7 @@ This project aims to help potential learners who wish to pick up a foreign langu
 - [LearnJapanese](https://www.reddit.com/r/LearnJapanese/new)
 - [korean](https://www.reddit.com/r/korean/new)
 
-After data cleaning, there were 995 and 976 Japanese and Korean posts.
+The posts are from 1 Jan 2021 to 2 Feb 2021 GMT. After data cleaning, there were 995 and 976 Japanese and Korean posts.
 
 ## Data Analysis
 ### Posting Patterns
@@ -50,7 +50,7 @@ Usage of the Korean subreddit is recommended for beginners, as the posts have fe
 All models run are at least 20% more accurate than the baseline accuracy of 0.505, where all posts are predicted to be from the Japanese subreddit.
 
 ### Testing on New Data
-To check for future compatibility, one model for each of the 3 algorithms is selected and trained using the original full set of data (from 1 Jan 2021 onwards) for use on future posts, to ensure that the models are not adversely affected by recent trends. They are tested on 100 newest posts (retrieved on 20 Jan 2022) from each subreddit, and their performances are evaluated.
+To check for future compatibility, one model for each of the 3 algorithms is selected and trained using the original full set of data (from 1 Jan 2021 to 2 Feb 2021) for use on future posts, to ensure that the models are not adversely affected by recent trends. They are tested on 100 newest posts (retrieved on 20 Jan 2022) from each subreddit, and their performances are evaluated.
 
 ### Conclusion
 There are sufficient differences between the 2 subreddits as 2 of the 3 trained models (Multinomial Naive-Bayes and Random Forest Classifier) accurately predict which subreddit the posts come from for more than 75% of the time. The Random Forest Classifier is chosen to be the production model as it did not assign very high probabilities to the misclassified posts.
