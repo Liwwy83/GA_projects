@@ -1,0 +1,501 @@
+﻿NEWID,GENDER,PSLE,REPEAT,INTAKE,SEC SCHOOL,GP,KI,KI (A),MA2,FM2,CP2,PH2,CH2,BY2,EL2,EL2 (A),ELL2,EC2,EC2 (A),EH2,EH2 (A),EG2,EG2 (A),S1_2,S2_2,S3_2,S4_2,S5_2,FR2,GM2,JP2,SP2,MA1,CH1,EL1,EC1,EH1,EG1,S1_1,PW,MTL,P/F,RANK,%,MSG/GPA,PTS,NO OF CCA
+20180001,M,260,NA,IP (X),SCHOOL X,C,,,B,,,A,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180002,F,253,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),D,,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.5,72.5,1
+20180003,F,262,NA,IP (Y),SCHOOL Y,C,,,S,,,D,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,940,19,4.8,45,1
+20180004,F,242,NA,JAE Ordinary Admission,TANJONG KATONG GIRLS' SCHOOL,,,B,,,,,,,,MC,,,U,,MC,,,,,,,,,,,,MC,,,,,,,A,A,Failed,1142,2,4.5,17.5,1
+20180005,M,237,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,D,,,A,,,D,C,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,624,46,3.3,58.75,1
+20180006,M,246,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,,A,,B,,,,B,A,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,125,89,1.5,75,1
+20180007,M,261,NA,IP (X),SCHOOL X,B,,,A,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,2,71.25,1
+20180008,M,263,NA,IP (X),SCHOOL X,C,,,E,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3.3,60,2
+20180009,F,251,NA,IP (Y),SCHOOL Y,C,,,E,,,,E,S,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,940,19,4.8,45,2
+20180010,F,247,NA,IP (Y),SCHOOL Y,C,,,C,,,,E,E,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,789,32,4,52.5,1
+20180011,F,258,NA,IP (Y),SCHOOL Y,C,,,C,,,,D,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,624,46,3.3,58.75,1
+20180012,F,256,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,S,,,B,,,,B,C,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,2.5,60,0
+20180013,F,258,NA,IP (Y),SCHOOL Y,C,,,B,,,,B,A,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,1
+20180014,F,240,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,C,,,C,,,,D,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,702,39,3.5,56.25,1
+20180015,M,0,NA,DSA,BUKIT PANJANG GOVT. HIGH SCHOOL,C,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,91,92,1.3,76.25,2
+20180016,F,257,NA,IP (Y),SCHOOL Y,,A,,B,,,B,C,,,,,,,,,,,,,,,,,,,,,,,B,,,,A,B,Passed,218,81,2,71.25,1
+20180017,F,260,NA,IP (Y),SCHOOL Y,B,,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1,78.75,2
+20180018,F,259,NA,IP (Y),SCHOOL Y,C,,,D,,,,C,B,,,,,,,,,,B,,,,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180019,F,244,NA,DSA,CHIJ SECONDARY (TOA PAYOH),C,,,U,,,D,,,B,,,,,,,,,B,,,,,,,,,,,,,,,,A,B,Passed,742,36,3.8,55,1
+20180020,M,252,NA,IP (X),SCHOOL X,D,,,D,,,,D,C,,,,B,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,665,43,3.3,57.5,2
+20180021,M,254,NA,IP (X),SCHOOL X,D,,,A,,,A,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,1
+20180022,M,261,NA,IP (X),SCHOOL X,B,,,A,,,,C,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,164,86,1.8,73.75,1
+20180023,F,245,NA,DSA (CCA),SINGAPORE CHINESE GIRLS' SCHOOL,D,,,E,,,,D,E,,,,C,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,868,25,4.3,48.75,1
+20180024,M,256,NA,IP (X),SCHOOL X,B,,,C,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,164,86,1.8,73.75,1
+20180025,F,242,NA,IP (Y),SCHOOL Y,E,,,C,,,E,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,833,28,4,50,1
+20180026,F,251,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),B,,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,185,84,1.8,72.5,1
+20180027,F,254,NA,IP (Y),SCHOOL Y,D,,,,,,,,,C,,,D,,D,,,,,,,,,,,,,A,,,,,,,A,A,Passed,702,39,3.3,56.25,2
+20180028,M,243,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,A,A,,A,,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,164,86,1.3,73.75,1
+20180029,F,261,NA,IP (Y),SCHOOL Y,D,,,C,,,C,D,,,,,MC,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,868,25,3.3,48.75,2
+20180030,M,256,NA,IP (X),SCHOOL X,A,,,B,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,2,72.5,2
+20180031,M,254,NA,IP (X),SCHOOL X,C,,,D,,,D,D,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,702,39,3.5,56.25,1
+20180032,F,246,NA,IP (Y),SCHOOL Y,D,,,E,,,,E,D,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,923,20,4.5,46.25,1
+20180033,F,256,NA,IP (Y),SCHOOL Y,B,,,C,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.5,66.25,2
+20180034,F,249,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,C,,,C,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,431,63,2.5,65,1
+20180035,F,259,NA,IP (Y),SCHOOL Y,A,,,A,,,A,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,A,A,Passed,1,100,1,80,2
+20180036,F,251,NA,DSA,SINGAPORE CHINESE GIRLS' SCHOOL,B,,,C,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,2,71.25,2
+20180037,F,249,NA,DSA (CCA),CRESCENT GIRLS' SCHOOL,B,,,E,,,B,D,,,,,U,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,868,25,4.5,48.75,1
+20180038,M,264,NA,IP (X),SCHOOL X,C,,,S,,,,S,S,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1091,6,5.8,30,1
+20180039,F,259,NA,Appeals (Academic),NATIONAL JUNIOR COLLEGE (IP),B,,,D,,,C,B,,,,,EX,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,765,34,3,53.75,2
+20180040,F,259,NA,IP (Y),SCHOOL Y,C,,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180041,F,249,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),D,,,U,,,,C,B,,,C,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,765,34,3.8,53.75,1
+20180042,F,258,Repeat Yr2,IP (Y),SCHOOL Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,,,,,1
+20180043,F,231,NA,JAE Ordinary Admission,CHIJ SECONDARY (TOA PAYOH),C,,,D,,,,B,A,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,398,65,2.5,66.25,1
+20180044,F,247,NA,IP (Y),SCHOOL Y,D,,,B,,B,C,,,,,,,,,,,,,,,,,,,,,,,,B,,,,A,A,Passed,431,63,2.3,65,1
+20180045,M,252,NA,IP (X),SCHOOL X,D,,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,256,78,1.8,70,3
+20180046,F,246,NA,IP (Y),SCHOOL Y,C,,,U,,,,,,,,,,,D,,,,D,,,,,,,,,,,,D,,,,A,E,Passed,1016,12,4.9,38.75,1
+20180047,M,266,NA,IP (X),SCHOOL X,B,,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,A,,,,A,A,Passed,23,98,1,78.75,1
+20180048,M,258,NA,IP (X),SCHOOL X,C,,,,,,,,,B,,D,,,D,,,,,,,,,,,,,A,,,,,,,A,B,Passed,583,50,3,60,1
+20180049,M,262,NA,IP (X),SCHOOL X,C,,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,125,89,1.5,75,1
+20180050,M,249,NA,IP (X),SCHOOL X,S,,,C,,,E,S,,,,,,,,,,,,,,,,,,,,,,,E,,,,A,C,Passed,1024,12,4.7,37.5,1
+20180051,F,263,NA,IP (Y),SCHOOL Y,C,,,C,,,,B,C,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,431,63,2.5,65,2
+20180052,F,243,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,E,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180053,M,257,NA,IP (X),SCHOOL X,E,,,B,,,B,B,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,2
+20180054,M,0,NA,JAE Ordinary Admission,BOWEN SECONDARY SCHOOL,E,,,S,,E,E,,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,1024,12,5.3,37.5,0
+20180055,M,236,NA,JAE Ordinary Admission,ST. JOSEPH'S INSTITUTION,E,,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.5,72.5,1
+20180056,M,258,NA,IP (X),SCHOOL X,D,,,D,,,C,D,,C,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,742,36,3.5,55,1
+20180057,M,0,NA,IP (X),SCHOOL X,D,,,D,,,,,,,,,B,,D,,,,,,,A,,,,,,,,,,,,,B,A,Passed,499,57,2.8,62.5,2
+20180058,M,0,NA,DSA (CCA),XINMIN SECONDARY SCHOOL,C,,,B,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,91,92,1.3,76.25,3
+20180059,F,237,NA,IP (Y),SCHOOL Y,C,,,D,,,,E,E,,,,,,,,,,,,,,,,,,,,,,C,,,,B,B,Passed,891,23,4.4,47.5,2
+20180060,F,248,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,E,,,U,,,E,E,,,,,S,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,1091,6,5.8,30,2
+20180061,M,266,NA,IP (X),SCHOOL X,B,,,B,,,,,,,,,C,,,,A,,,,,B,,,,,,,,,,,,,A,A,Passed,218,81,2,71.25,1
+20180062,F,267,NA,IP (Y),SCHOOL Y,D,,,D,,,C,D,,,,,B,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,665,43,3.3,57.5,1
+20180063,M,259,NA,IP (X),SCHOOL X,D,,,D,,,,B,C,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,3,60,2
+20180064,M,245,NA,DSA (CCA),MARIS STELLA HIGH SCHOOL,E,,,B,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,304,73,1.8,68.75,1
+20180065,M,258,NA,IP (X),SCHOOL X,B,,,A,,,,,,,C,,,D,,A,,,,,,,,,,,,,,,,,,,A,B,Passed,256,78,2.3,70,2
+20180066,M,252,NA,IP (X),SCHOOL X,C,,,D,,,,C,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,702,39,3.5,56.25,1
+20180067,M,242,NA,DSA (CCA),ST. JOSEPH'S INSTITUTION,E,,,D,,,E,S,,,,,U,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,1067,8,5.5,32.5,1
+20180068,M,259,NA,IP (X),SCHOOL X,S,,,U,,,U,,,,,,,,,,,,,,,B,,,,,,,,,B,,,,A,A,Failed,1099,5,4.9,28.75,1
+20180069,M,259,NA,IP (X),SCHOOL X,D,,,B,,,A,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2.3,67.5,1
+20180070,F,250,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,E,,,S,,,,MC,D,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1043,10,4.7,35,1
+20180071,F,264,NA,JAE Ordinary Admission,SINGAPORE CHINESE GIRLS' SCHOOL,C,,,B,,,,C,B,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,3,62.5,2
+20180072,M,259,NA,IP (X),SCHOOL X,E,,,U,,,,S,,,,,E,,,,,,,,,B,,,,,,,,,,,,,B,A,Passed,1024,12,5,37.5,1
+20180073,F,258,NA,IP (Y),SCHOOL Y,C,,,E,,,,D,,,,,D,,,,C,,,,,,,,,,,,,,,,,,A,B,Passed,789,32,4,52.5,1
+20180074,F,252,NA,IP (Y),SCHOOL Y,D,,,E,,,B,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,765,34,3.8,53.75,1
+20180075,F,261,NA,IP (Y),SCHOOL Y,B,,,B,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180076,F,250,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,D,,,D,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,3,60,1
+20180077,F,244,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,C,,,D,,,A,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.5,66.25,1
+20180078,F,235,NA,IP (Y),SCHOOL Y,E,,,U,,,,,,,,,D,,,,E,,,,,,,,,,,,D,,,,,,B,B,Passed,1056,9,5.1,33.75,1
+20180079,F,247,NA,IP (Y),SCHOOL Y,E,,,U,,,,,,D,,,S,,D,,,,,,,,,,,,,,,,,,,,A,A,Passed,1043,10,5.3,35,1
+20180080,F,238,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,E,,,B,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,431,63,2.3,65,1
+20180081,F,255,NA,IP (Y),SCHOOL Y,A,,,,,,,,,C,,,C,,,,B,,,,,,,,,,,B,,,,,,,A,B,Passed,398,65,2.6,66.25,1
+20180082,M,261,NA,IP (X),SCHOOL X,B,,,A,,A,B,,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180083,M,254,NA,IP (X),SCHOOL X,C,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,91,92,1.3,76.25,1
+20180084,M,257,NA,IP (X),SCHOOL X,D,,,B,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2,67.5,1
+20180085,F,256,NA,IP (Y),SCHOOL Y,C,,,D,,,,D,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180086,F,0,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),D,,,B,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,185,84,1.5,72.5,1
+20180087,F,259,NA,IP (Y),SCHOOL Y,C,,,E,,,,C,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,742,36,3.8,55,2
+20180088,M,257,NA,IP (X),SCHOOL X,C,,,A,,,,B,C,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180089,M,259,NA,IP (X),SCHOOL X,,A,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,1
+20180090,M,254,NA,IP (X),SCHOOL X,D,,,E,,,,,,C,,,,,C,,,,,,,,,,,,,,,,A,,,,A,A,Passed,702,39,3.3,56.25,1
+20180091,F,258,NA,IP (Y),SCHOOL Y,B,,,C,,,,C,B,,,D,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,3,62.5,1
+20180092,M,251,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,B,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,473,59,2.5,63.75,1
+20180093,M,244,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,D,,,B,,,B,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,1
+20180094,M,252,NA,IP (X),SCHOOL X,E,,,E,,,E,D,,,,,,,,,,,,,,,,,,,,,,,C,,,,B,A,Passed,940,19,4.4,45,1
+20180095,F,258,NA,IP (Y),SCHOOL Y,B,,,,,,,,,,,,,,,,B,,,,,B,B,,,,,B,,,,,,,A,A,Passed,256,78,2,70,1
+20180096,F,249,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,D,,,U,,,,D,D,,,,MC,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,1081,7,5,31.25,1
+20180097,F,260,NA,IP (Y),SCHOOL Y,D,,,U,,,,U,,,,,D,,,,D,,,,,,,,,,,,,,,,,,A,C,Passed,1081,7,5.5,31.25,1
+20180098,M,256,NA,IP (X),SCHOOL X,D,,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2,67.5,2
+20180099,M,254,NA,DSA (CCA),HWA CHONG INSTITUTION (HIGH SCHOOL),E,,,D,,,D,E,,,,,,,,,,,,,,,,,,,,,,,B,,,,B,B,Passed,868,25,4,48.75,1
+20180100,M,261,NA,IP (X),SCHOOL X,C,,,D,,,,B,E,,,,C,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,665,43,3.5,57.5,1
+20180101,M,261,NA,IP (X),SCHOOL X,D,,,B,,,C,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,547,53,2.8,61.25,1
+20180102,M,256,NA,IP (X),SCHOOL X,B,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,43,96,1.3,77.5,2
+20180103,F,255,NA,IP (Y),SCHOOL Y,S,,,E,E,B,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,A,C,Passed,985,15,4.3,42.5,1
+20180104,M,257,NA,IP (X),SCHOOL X,D,,,C,,,C,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,665,43,3.3,57.5,1
+20180105,F,260,NA,IP (Y),SCHOOL Y,C,,,A,,,C,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2.3,67.5,1
+20180106,F,0,NA,IP (Y),SCHOOL Y,C,,,D,,,,,,,C,,,C,,,,,A,,,,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180107,F,260,NA,IP (Y),SCHOOL Y,C,,,,,,,,,,,,C,,,,B,,B,,,,,,,,,A,,,,,,,A,B,Passed,345,70,2.1,67.5,1
+20180108,F,258,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,B,,,E,,,,D,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3.3,61.25,2
+20180109,F,250,NA,Appeals (Academic),SINGAPORE CHINESE GIRLS' SCHOOL,A,,,E,,,,,,,B,,,C,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,431,63,3,65,1
+20180110,F,232,NA,JAE Ordinary Admission,CLEMENTI TOWN SECONDARY SCHOOL,C,,,D,,,,C,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180111,M,258,NA,IP (X),SCHOOL X,C,,,C,,,,,,,,C,C,,C,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,3,60,1
+20180112,F,257,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,C,,,C,,,,A,A,,,,,,,,B,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.8,72.5,1
+20180113,M,262,NA,IP (X),SCHOOL X,E,,,E,,,C,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,833,28,4,50,1
+20180114,M,254,NA,IP (X),SCHOOL X,D,,,D,,,,B,D,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3,60,1
+20180115,F,0,NA,IP (Y),SCHOOL Y,E,,,A,,,A,B,,,,,,,,,,,,,A,,,,,,,,,,,,,,A,A,Passed,164,86,1.3,73.75,2
+20180116,M,228,NA,JAE Ordinary Admission,BEATTY SECONDARY SCHOOL,S,,,A,,,C,B,,,,,,,,,,,,,S,,,,,,,,,,,,,C,A,A,Passed,499,57,3,62.5,1
+20180117,F,240,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,E,,,C,,,C,,,,,,D,,,,,,,,B,,,,,,,,,,,,,,A,A,Passed,624,46,3,58.75,1
+20180118,M,254,NA,IP (X),SCHOOL X,D,,,U,,,E,S,,,,,,,,,,,,,,,,,,,,,,,B,,,,A,B,Passed,1091,6,5.4,30,1
+20180119,M,259,NA,IP (X),SCHOOL X,B,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180120,M,239,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),E,,,S,,,,,,,,,E,,,,,,,,C,B,,,,,,,,,,,,,A,A,Passed,833,28,4,50,0
+20180121,M,265,NA,IP (X),SCHOOL X,A,,,U,,,,D,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,665,43,3.8,57.5,1
+20180122,F,253,NA,IP (Y),SCHOOL Y,C,,,D,,,,D,B,,,,,,,,,,,,,C,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180123,M,239,NA,JAE Ordinary Admission,FUHUA SECONDARY SCHOOL,S,,,C,,,B,D,,,,,,,,,,,,,,,,,,,,,,,B,,,,A,A,Passed,702,39,2.9,56.25,1
+20180124,M,262,NA,IP (X),SCHOOL X,C,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,1
+20180125,M,0,NA,IP (X),SCHOOL X,E,,,A,C,A,,,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.3,66.25,1
+20180126,M,255,NA,IP (X),SCHOOL X,D,,,U,,S,U,,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,1123,3,6,23.75,1
+20180127,M,258,NA,IP (X),SCHOOL X,C,,,A,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,2
+20180128,F,244,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,S,,,E,,,,U,E,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1043,10,5.3,35,1
+20180129,F,269,NA,IP (Y),SCHOOL Y,E,,,,,,,,,D,,,,,S,,,,B,,,,,,,,,E,,,,,,,A,A,Passed,940,19,4.1,45,1
+20180130,F,259,NA,IP (Y),SCHOOL Y,D,,,U,,,,,,B,,,E,,,,C,,,,,,,,,,,,,,,,,,A,B,Passed,868,25,4.3,48.75,1
+20180131,M,260,NA,IP (X),SCHOOL X,C,,,U,,,U,,,,,,C,,,,,,,,,C,,,,,,,,,,,,,B,A,Passed,1024,12,5,37.5,1
+20180132,F,262,NA,IP (Y),SCHOOL Y,B,,,E,,,,C,C,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.5,58.75,2
+20180133,M,257,NA,IP (X),SCHOOL X,C,,,D,,,,A,,,,,E,,,,,,,,,D,,,,,,,,,,,,,B,B,Passed,665,43,3.5,57.5,1
+20180134,M,251,NA,IP (X),SCHOOL X,C,,,E,,,E,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,833,28,4.3,50,1
+20180135,F,253,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,,S,,,,,,,B,,,,,C,,,,,,,,,A,,,,,,,,,,A,A,Passed,431,63,3,65,1
+20180136,M,250,NA,IP (X),SCHOOL X,D,,,D,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,499,57,2.8,62.5,1
+20180137,F,259,NA,IP (Y),SCHOOL Y,C,,,C,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180138,F,247,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,C,,,A,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180139,M,256,NA,IP (X),SCHOOL X,D,,,U,,,C,E,,,,,U,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,1081,7,5.5,31.25,1
+20180140,M,258,NA,IP (X),SCHOOL X,C,,,E,,,,,,C,,,C,,C,,,,,,,,,,,,,,,,,,,,A,A,Passed,665,43,3.5,57.5,1
+20180141,F,259,NA,IP (Y),SCHOOL Y,D,,,E,,,,E,C,,,,S,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,969,16,4.8,43.75,1
+20180142,M,0,NA,IP (X),SCHOOL X,E,,,E,,,A,D,,,,,S,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,833,28,4,50,1
+20180143,F,0,NA,DSA (CCA),CHIJ ST. NICHOLAS GIRLS' SCHOOL,E,,,D,,,C,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,765,34,3.5,53.75,1
+20180144,M,248,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,D,,,C,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,499,57,2.8,62.5,2
+20180145,M,257,NA,IP (X),SCHOOL X,D,,,E,,,E,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,969,16,4.8,43.75,2
+20180146,M,267,NA,IP (X),SCHOOL X,B,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,43,96,1.3,77.5,3
+20180147,M,254,NA,IP (X),SCHOOL X,D,,,U,,,D,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,969,16,4.8,43.75,1
+20180148,F,194,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,E,,,U,,,E,U,,,,,S,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,1137,2,6.3,20,1
+20180149,M,263,Repeat Yr1,IP (X),SCHOOL X,C,,,U,,MC,S,,,,,,,,,,,,,,,,,,,,,,,,C,,,,B,B,Failed,1137,2,5.8,20,0
+20180150,F,234,NA,JAE Ordinary Admission,FUHUA SECONDARY SCHOOL,E,,,C,,,E,C,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,833,28,4,50,1
+20180151,M,240,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,E,,,S,,,,,,E,,E,,,,,,,,,,,,,,,,,,,,B,C,Passed,1016,12,5.3,38.75,1
+20180152,M,256,NA,IP (X),SCHOOL X,B,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,43,96,1.3,77.5,2
+20180153,M,263,NA,IP (X),SCHOOL X,B,,,B,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,2
+20180154,F,258,NA,IP (Y),SCHOOL Y,,,A,D,,,,,,,C,,,,,,,C,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,2
+20180155,F,262,NA,IP (Y),SCHOOL Y,C,,,D,,,,D,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180156,M,253,NA,IP (X),SCHOOL X,D,,,B,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,431,63,2.5,65,1
+20180157,F,0,NA,JAE Ordinary Admission,NORTH VISTA SECONDARY SCHOOL,D,,,B,B,,B,,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2,67.5,1
+20180158,M,254,NA,IP (X),SCHOOL X,C,,,B,,,C,,,,,,D,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180159,M,267,NA,IP (X),SCHOOL X,,A,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,1
+20180160,F,253,NA,DSA (CCA),SINGAPORE CHINESE GIRLS' SCHOOL,C,,,S,,,,C,B,B,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3.3,60,1
+20180161,M,258,NA,IP (X),SCHOOL X,C,,,C,,,,C,C,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,665,43,3.5,57.5,1
+20180162,M,240,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,D,,,S,,,,,,B,,,B,,D,,,,,,,,,,,,,,,,,,,,A,B,Passed,702,39,3.5,56.25,1
+20180163,F,262,NA,IP (Y),SCHOOL Y,C,,,E,,,,D,D,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,833,28,4.3,50,1
+20180164,F,257,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),B,,,B,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,164,86,1.8,73.75,1
+20180165,M,257,NA,IP (X),SCHOOL X,C,,,E,,,B,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,789,32,4,52.5,2
+20180166,M,239,NA,Appeals (Academic),CHUNG CHENG HIGH SCHOOL (MAIN),D,,,A,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,398,65,2.3,66.25,1
+20180167,M,247,NA,IP (X),SCHOOL X,D,,,C,,,D,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3,60,1
+20180168,M,246,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,C,,,D,,,,C,A,,,,B,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,398,65,2.5,66.25,1
+20180169,F,261,NA,IP (Y),SCHOOL Y,C,,,B,,,,,,B,,,B,,C,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.3,67.5,2
+20180170,M,260,NA,IP (X),SCHOOL X,D,,,B,,,,B,E,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180171,F,239,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,E,,,C,,,S,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,891,23,4.3,47.5,1
+20180172,F,261,NA,IP (Y),SCHOOL Y,,,A,,,,,,,,B,,,C,,,,B,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,3
+20180173,F,248,NA,JAE Ordinary Admission,FUHUA SECONDARY SCHOOL,S,,,U,,,E,U,,,,,S,,,,,,,,,,,,,,,,,,,,,,A,B,Failed,1142,2,6.3,17.5,1
+20180174,M,241,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),D,,,C,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,547,53,2.8,61.25,1
+20180175,F,248,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,C,,,D,,,,D,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,702,39,3.5,56.25,1
+20180176,M,255,NA,IP (X),SCHOOL X,D,,,A,,,E,A,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180177,M,252,NA,IP (X),SCHOOL X,C,,,C,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180178,M,239,NA,JAE Ordinary Admission,TANJONG KATONG SECONDARY SCHOOL,D,,,D,,,,B,A,,,,D,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,499,57,2.8,62.5,1
+20180179,M,252,NA,IP (X),SCHOOL X,D,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.3,75,1
+20180180,F,254,NA,IP (Y),SCHOOL Y,C,,,A,,,,A,A,,,,,,,,,,,,,C,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180181,M,261,NA,IP (X),SCHOOL X,C,,,,,,,,,,,B,C,,,,B,,,,,,,,,,,C,,,,,,,A,A,Passed,431,63,2.4,65,1
+20180182,F,256,NA,IP (Y),SCHOOL Y,D,,,E,,,,E,E,,,,,,,,,,,,,,,,,,,,,,E,,,,A,B,Passed,995,14,5,41.25,1
+20180183,F,246,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,B,,,U,,,,S,D,,,,B,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,969,16,4.8,43.75,1
+20180184,F,249,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,B,,,C,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,624,46,3,58.75,1
+20180185,M,236,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,C,,,E,,,C,C,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,789,32,4,52.5,2
+20180186,F,262,NA,IP (Y),SCHOOL Y,C,,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2.3,67.5,1
+20180187,M,259,NA,IP (X),SCHOOL X,C,,,C,,,C,C,,,,,,,C,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3,60,1
+20180188,F,253,NA,IP (Y),SCHOOL Y,A,,,B,,,,B,A,,,,,,,,,,,,,,,,A,,,,,,,,,,A,A,Passed,91,92,1.5,76.25,1
+20180189,M,256,NA,IP (X),SCHOOL X,C,,,C,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.8,72.5,1
+20180190,F,250,NA,IP (Y),SCHOOL Y,D,,,E,,,,D,B,,,,,,,,,,,,,,,,,,,,,,A,,,,A,B,Passed,702,39,3.3,56.25,2
+20180191,F,264,NA,IP (Y),SCHOOL Y,C,,,E,,,D,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,891,23,4.5,47.5,2
+20180192,M,256,NA,IP (X),SCHOOL X,B,,,C,,,,,,,B,,,B,,B,,,,,,,,,,,,,,,,,,,B,B,Passed,304,73,2.3,68.75,1
+20180193,F,258,NA,IP (Y),SCHOOL Y,C,,,A,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180194,F,244,NA,DSA (CCA),ANGLICAN HIGH SCHOOL,C,,,U,,,,E,D,,,,,,,,E,,,,,,,,,,,,,,,,,,A,B,Passed,1006,13,5.3,40,1
+20180195,F,243,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,S,,,U,,,D,U,,,,,U,,,,,,,,,,,,,,,,,,,,,,B,B,Failed,1150,1,6.3,15,1
+20180196,M,244,NA,IP (X),SCHOOL X,D,,,S,,,C,E,,,,,,,,,,,,,,,,,,,,,,,E,,,,B,D,Passed,995,14,4.7,41.25,1
+20180197,M,257,NA,IP (X),SCHOOL X,B,,,B,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,164,86,1.8,73.75,1
+20180198,M,253,NA,IP (X),SCHOOL X,C,,,C,,,,B,D,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,624,46,3.3,58.75,1
+20180199,M,246,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),D,,,B,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.5,72.5,1
+20180200,M,257,NA,IP (X),SCHOOL X,C,,,D,,,E,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,940,19,4.8,45,1
+20180201,F,246,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),E,,,A,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,1.8,68.75,1
+20180202,F,252,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,C,,,B,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,185,84,1.8,72.5,1
+20180203,M,249,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),C,,,C,,,B,,,,,,C,,,,,,B,,,,,,,,,,,,,,,,A,A,Passed,431,63,2.5,65,1
+20180204,F,262,NA,IP (Y),SCHOOL Y,D,,,S,,,,E,B,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,923,20,4.5,46.25,1
+20180205,F,255,NA,IP (Y),SCHOOL Y,D,,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,304,73,2,68.75,1
+20180206,F,257,NA,IP (Y),SCHOOL Y,C,,,B,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180207,F,241,NA,DSA (CCA),NAN HUA HIGH SCHOOL,E,,,U,,,,U,U,,,,,,S,,,,,,,,,,,,,,,,,,,,A,A,Failed,1155,0,6.8,10,2
+20180208,F,251,NA,JAE Ordinary Admission,SINGAPORE CHINESE GIRLS' SCHOOL,C,,,D,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180209,F,246,NA,IP (Y),SCHOOL Y,E,,,D,,,S,U,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,1067,8,5.5,32.5,1
+20180210,F,259,NA,IP (Y),SCHOOL Y,,B,,D,,,,C,A,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,431,63,2.5,65,1
+20180211,F,245,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,E,,,D,,,,E,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,789,32,3.8,52.5,1
+20180212,F,261,NA,IP (Y),SCHOOL Y,C,,,U,,,,U,,,,,D,,,,C,,,,,,,,,,,,,,,,,,A,A,Passed,1043,10,5.3,35,1
+20180213,M,269,NA,IP (X),SCHOOL X,B,,,A,,,,,,,B,,,A,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,2
+20180214,F,248,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,S,,,B,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,2.5,61.25,1
+20180215,M,0,NA,JAE Ordinary Admission,QUEENSTOWN SECONDARY SCHOOL,S,,,A,A,,A,,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,218,81,1.3,71.25,1
+20180216,M,249,NA,IP (X),SCHOOL X,C,,,E,,,A,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,431,63,2.8,65,1
+20180217,F,258,NA,IP (Y),SCHOOL Y,,,A,B,,,,,,,B,,,C,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180218,M,251,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,D,,,B,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,1.8,70,1
+20180219,M,268,NA,IP (X),SCHOOL X,C,,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1,77.5,1
+20180220,M,256,NA,IP (X),SCHOOL X,C,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,91,92,1.3,76.25,2
+20180221,M,230,NA,DSA (CCA),ST. GABRIEL'S SECONDARY SCHOOL,E,,,U,,,,S,S,,,,,,,,,,,,,,,,,,,,,,E,,,,B,A,Failed,1137,2,6.1,20,1
+20180222,M,258,NA,IP (X),SCHOOL X,,A,,A,,,,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,2
+20180223,F,253,NA,IP (Y),SCHOOL Y,C,,,U,,,,U,U,,,,,,,,,,B,,,,,,,,,,,,,,,,A,A,Failed,1118,4,5.8,25,1
+20180224,F,263,NA,IP (Y),SCHOOL Y,B,,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1,78.75,1
+20180225,M,239,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,C,,,U,,,,,,D,,,D,,D,,,,,,,,,,,,,,,,,,,,A,C,Passed,940,19,4.8,45,2
+20180226,F,247,NA,DSA,CRESCENT GIRLS' SCHOOL,B,,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1,78.75,1
+20180227,M,254,NA,IP (X),SCHOOL X,B,,,B,,,,C,,,,,C,,,,C,,,,,,,,,,,,,,,,,,A,B,Passed,473,59,2.8,63.75,1
+20180228,M,261,NA,IP (X),SCHOOL X,D,,,U,,,,U,E,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1081,7,5.5,31.25,1
+20180229,F,263,NA,IP (Y),SCHOOL Y,C,,,B,,,,B,D,,,,E,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,583,50,3.3,60,1
+20180230,M,259,NA,IP (X),SCHOOL X,E,,,,,,,,,B,,,D,,C,,,,,,,,,,,,,B,,,,,,,A,D,Passed,624,46,2.9,58.75,1
+20180231,M,255,NA,IP (X),SCHOOL X,B,,,B,,,A,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,2,71.25,1
+20180232,M,248,NA,JAE Ordinary Admission,ST. JOSEPH'S INSTITUTION,B,,,D,,,S,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,868,25,4.5,48.75,1
+20180233,F,257,NA,IP (Y),SCHOOL Y,C,,,D,,,C,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,702,39,3.5,56.25,2
+20180234,M,239,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,E,,,E,,,,S,,,,,,,,,,,,,D,C,,,,,,,,,,,,,A,A,Passed,940,19,4.5,45,1
+20180235,M,247,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,D,,,B,,,,D,E,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180236,F,244,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,S,,,B,,,D,C,,,,,S,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,833,28,3.8,50,1
+20180237,F,259,NA,IP (Y),SCHOOL Y,B,,,D,,,,B,B,,,,,,,,,,,,,,,C,,,,,,,,,,,A,A,Passed,431,63,2.8,65,1
+20180238,M,244,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,C,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.3,66.25,1
+20180239,F,265,NA,IP (Y),SCHOOL Y,C,,,E,,,,D,D,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,742,36,3.8,55,1
+20180240,F,242,NA,DSA,METHODIST GIRLS' SCHOOL (SECONDARY),,,B,,,,,,,,C,,,D,,B,,,,,,,,,,,,E,,,,,,,A,A,Passed,499,57,3,62.5,1
+20180241,F,249,NA,IP (Y),SCHOOL Y,D,,,D,,,E,S,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,995,14,5,41.25,2
+20180242,M,252,NA,IP (X),SCHOOL X,D,,,E,,,,B,D,,,,A,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,547,53,3,61.25,1
+20180243,F,243,NA,IP (Y),SCHOOL Y,E,,,S,,,,S,E,,,,,,,,,,,,,,,,,,,,,,B,,,,A,A,Passed,1056,9,5.1,33.75,1
+20180244,M,256,NA,IP (X),SCHOOL X,E,,,C,,,B,B,,E,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,583,50,3,60,1
+20180245,F,247,NA,JAE Ordinary Admission,ANDERSON SECONDARY SCHOOL,D,,,C,,,B,S,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,765,34,3.8,53.75,1
+20180246,M,264,NA,IP (X),SCHOOL X,B,,,C,,,,A,A,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2.3,70,1
+20180247,F,239,NA,IP (Y),SCHOOL Y,D,,,U,,,,S,D,,,,,,,,,,,,,,,,,,,,,,B,,,,A,D,Passed,1067,8,5.1,32.5,1
+20180248,F,0,NA,JAE Ordinary Admission,CHIJ KATONG CONVENT,C,,,D,,,,E,D,,,,,,,,,,,,,,,,,,,,,,B,,,,A,B,Passed,821,29,4,51.25,1
+20180249,F,251,NA,IP (Y),SCHOOL Y,E,,,S,,D,S,,,,,,,,,,,,,,,,,,,,,,,,D,,,,B,C,Passed,1056,9,5.1,33.75,1
+20180250,F,239,NA,JAE Ordinary Admission,SINGAPORE CHINESE GIRLS' SCHOOL,E,,,C,,,B,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,742,36,3.5,55,1
+20180251,F,262,NA,IP (Y),SCHOOL Y,C,,,C,,,,B,A,,,,,,,,A,,,,,,,,,,,,,,,,,,A,A,Passed,185,84,1.8,72.5,1
+20180252,M,259,NA,IP (X),SCHOOL X,D,,,E,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,2
+20180253,M,239,NA,IP (X),SCHOOL X,C,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,91,92,1.3,76.25,2
+20180254,M,249,NA,IP (X),SCHOOL X,C,,,C,,,,C,D,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180255,M,257,NA,IP (X),SCHOOL X,C,,,E,,,E,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,891,23,4.5,47.5,1
+20180256,F,262,NA,IP (Y),SCHOOL Y,C,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,1
+20180257,F,247,NA,IP (Y),SCHOOL Y,C,,,C,,,,C,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,431,63,2.5,65,1
+20180258,F,260,NA,IP (Y),SCHOOL Y,,A,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,1
+20180259,F,251,NA,DSA,CHIJ ST. NICHOLAS GIRLS' SCHOOL,C,,,S,,,E,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,985,15,5,42.5,1
+20180260,F,246,NA,IP (Y),SCHOOL Y,C,,,S,,,,D,,,,,C,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,742,36,3.8,55,1
+20180261,F,259,NA,IP (Y),SCHOOL Y,D,,,E,,,,D,D,,,,,,,,,,,,,,,,,,,,,,B,,,,A,C,Passed,833,28,4,50,1
+20180262,M,263,NA,DSA (CCA),HWA CHONG INSTITUTION (HIGH SCHOOL),D,,,E,,,D,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,923,20,4.5,46.25,1
+20180263,M,257,NA,IP (X),SCHOOL X,S,,,E,,,,,,,,,E,,E,,,,,,,,,,,,,,,D,,,,,A,A,Passed,1016,12,4.9,38.75,1
+20180264,F,0,NA,IP (Y),SCHOOL Y,,,A,A,,,,,,,B,,,A,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180265,F,0,NA,IP (Y),SCHOOL Y,E,,,A,,A,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,,A,A,Passed,125,89,1,75,1
+20180266,F,247,NA,JAE Ordinary Admission,ANDERSON SECONDARY SCHOOL,E,,,E,,,E,E,,,,,,,,,C,,,,,,,,,,,,,,,,,,A,A,Passed,940,19,4.5,45,1
+20180267,F,268,NA,DSA (CCA),NANYANG GIRLS' HIGH SCHOOL,E,,,U,,,,U,U,,,,,,,,,,,,,,,,,,,,,,E,,,,A,B,Failed,1155,0,6.7,10,1
+20180268,F,258,NA,IP (Y),SCHOOL Y,C,,,D,,,,D,B,D,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,702,39,3.5,56.25,1
+20180269,M,256,NA,IP (X),SCHOOL X,E,,,D,,,B,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,702,39,3.3,56.25,1
+20180270,M,245,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,S,,,B,,,B,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,624,46,2.8,58.75,1
+20180271,M,256,NA,IP (X),SCHOOL X,B,,,E,,,,,,,B,,,B,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.8,66.25,1
+20180272,M,256,NA,IP (X),SCHOOL X,C,,,D,,,,B,B,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180273,M,241,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),C,,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,164,86,1.5,73.75,1
+20180274,M,246,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,D,,,,D,C,,,,C,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,742,36,3.5,55,1
+20180275,M,245,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),S,,,D,,,D,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,821,29,3.5,51.25,2
+20180276,M,260,NA,IP (X),SCHOOL X,C,,,B,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.5,66.25,2
+20180277,F,251,NA,IP (Y),SCHOOL Y,D,,,A,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,1
+20180278,F,246,NA,IP (Y),SCHOOL Y,E,,,B,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,431,63,2.3,65,1
+20180279,M,0,NA,IP (X),SCHOOL X,E,,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2,66.25,2
+20180280,M,257,NA,IP (X),SCHOOL X,E,,,C,,,C,D,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3,58.75,1
+20180281,M,0,NA,DSA,NAN HUA HIGH SCHOOL,C,,,A,,,B,,,,,,B,,C,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,1
+20180282,M,258,NA,IP (X),SCHOOL X,B,,,A,,,,A,B,,,,,,,,,,,,,,,,,B,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180283,F,257,NA,IP (Y),SCHOOL Y,A,,,A,,,A,B,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,91,92,1.5,76.25,1
+20180284,M,241,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,B,,,C,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,789,32,3.8,52.5,1
+20180285,F,247,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),E,,,D,,,S,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,985,15,4.8,42.5,1
+20180286,F,0,NA,JAE Ordinary Admission,WHITLEY SECONDARY SCHOOL,E,,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2,67.5,1
+20180287,M,236,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,B,,,A,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,185,84,1.8,72.5,2
+20180288,F,250,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,D,,,A,,,B,B,,,,,,,,,,,,,,,,,,,,,,,A,,,,A,B,Passed,218,81,1.6,71.25,2
+20180289,F,248,NA,IP (Y),SCHOOL Y,B,,,E,,,,S,E,,,,B,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,868,25,4.5,48.75,1
+20180290,M,240,NA,IP (X),SCHOOL X,C,,,S,,,E,S,,,,,,,,,,,,,,,,,,,,,,,D,,,,B,E,Passed,1056,9,5.4,33.75,1
+20180291,F,263,NA,IP (Y),SCHOOL Y,D,,,A,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,398,65,2.3,66.25,1
+20180292,M,243,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,C,,,C,,,E,D,,,,,S,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,891,23,4.5,47.5,1
+20180293,M,245,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,B,,,C,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,2.8,61.25,2
+20180294,M,243,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,E,,,C,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,765,34,3.8,53.75,1
+20180295,M,255,NA,IP (X),SCHOOL X,C,,,E,,,C,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,665,43,3.5,57.5,0
+20180296,M,249,NA,IP (X),SCHOOL X,C,,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,125,89,1.5,75,1
+20180297,F,248,NA,IP (Y),SCHOOL Y,D,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.3,75,0
+20180298,F,257,NA,IP (Y),SCHOOL Y,C,,,A,,,,B,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,398,65,2.5,66.25,2
+20180299,F,255,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,D,,,B,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2,68.75,1
+20180300,F,249,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,C,,,S,,,,,,,,,D,,D,,,,,,,,,,,,,,,C,,,,,A,A,Passed,940,19,4.4,45,1
+20180301,F,253,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,E,,,E,,,D,,,,,,B,,D,,,,,,,,,,,,,,,,,,,,A,E,Passed,789,32,3.8,52.5,1
+20180302,F,245,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,D,,,B,,,,B,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,1
+20180303,F,255,NA,IP (Y),SCHOOL Y,D,,,U,,,U,U,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Failed,1146,1,6.5,16.25,1
+20180304,F,260,NA,IP (Y),SCHOOL Y,B,,,C,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,218,81,2,71.25,1
+20180305,F,265,NA,IP (Y),SCHOOL Y,C,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,1
+20180306,M,264,NA,IP (X),SCHOOL X,C,,,B,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.3,67.5,1
+20180307,M,256,NA,IP (X),SCHOOL X,D,,,D,,,,,,D,,,D,,,,,,,,,D,,,,,,,,,,,,,A,A,Passed,833,28,4,50,2
+20180308,M,263,NA,IP (X),SCHOOL X,C,,,B,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,1
+20180309,F,0,NA,JAE Ordinary Admission,MARSILING SECONDARY SCHOOL,S,,,S,,,U,,,,,,D,,,,,,,,C,,,,,,,,,,,,,B,B,A,Passed,969,16,4.7,43.75,1
+20180310,F,264,NA,IP (Y),SCHOOL Y,,,A,,,,,,,,B,,,D,,,,C,,,,,,,,,,D,,,,,,,A,A,Passed,431,63,2.7,65,1
+20180311,M,258,NA,IP (X),SCHOOL X,D,,,C,,,,,,,,,,,,,,,,,C,A,,,,,,,,,A,,,,A,A,Passed,398,65,2.1,66.25,1
+20180312,F,265,NA,IP (Y),SCHOOL Y,C,,,B,,,,D,C,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,473,59,2.8,63.75,1
+20180313,M,244,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,D,,,B,,,,,,B,,,C,,B,,,,,,,,,,,,,,,,,,,,A,B,Passed,398,65,2.3,66.25,2
+20180314,F,254,NA,IP (Y),SCHOOL Y,E,,,A,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,256,78,1.8,70,1
+20180315,M,256,NA,IP (X),SCHOOL X,D,,,B,,,,D,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.3,67.5,2
+20180316,F,247,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,C,,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,345,70,2.3,67.5,2
+20180317,F,250,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,U,,,,U,S,B,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1099,5,5.5,28.75,1
+20180318,F,242,NA,DSA (CCA),CRESCENT GIRLS' SCHOOL,S,,,U,,,,U,D,,,,,,,,,,,,,,,,,,,,,,C,,,,A,B,Failed,1126,3,5.6,22.5,1
+20180319,M,253,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,D,,,A,,,,B,A,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,304,73,2.3,68.75,1
+20180320,F,250,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,B,,,D,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,256,78,2.3,70,1
+20180321,F,0,NA,DSA,BUKIT PANJANG GOVT. HIGH SCHOOL,C,,,A,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,2
+20180322,F,263,NA,IP (Y),SCHOOL Y,E,,,C,,,B,C,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,499,57,2.5,62.5,1
+20180323,M,246,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,B,,,B,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,665,43,3.3,57.5,1
+20180324,F,268,NA,IP (Y),SCHOOL Y,C,,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,1
+20180325,F,270,NA,IP (Y),SCHOOL Y,B,,,E,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.5,68.75,1
+20180326,F,246,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,D,,,U,,,U,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,1114,4,6,26.25,1
+20180327,M,237,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,E,,,C,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,2.8,60,1
+20180328,M,237,NA,JAE Ordinary Admission,XINMIN SECONDARY SCHOOL,C,,,C,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,473,59,2.8,63.75,1
+20180329,M,256,NA,IP (X),SCHOOL X,C,,,B,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,164,86,1.5,73.75,1
+20180330,F,237,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,E,,,S,,,E,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,985,15,4.8,42.5,1
+20180331,M,261,NA,IP (X),SCHOOL X,B,,,A,,,,,,,C,,,B,,,,C,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180332,M,258,NA,DSA (CCA),HWA CHONG INSTITUTION (HIGH SCHOOL),C,,,U,,,,S,C,,,,,,,,,,,,,,,,,,,,,,D,,,,A,A,Passed,1056,9,5.1,33.75,1
+20180333,M,245,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,,,A,,,,,,,,B,,,B,,B,,,,,,,,,,,,,,,,,,,A,E,Passed,185,84,1.8,72.5,2
+20180334,F,249,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,C,,,E,,,,E,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,833,28,4.3,50,1
+20180335,F,254,NA,IP (Y),SCHOOL Y,E,,,U,,,,U,S,,,,,,,,,,,,,,,,,,,,,,D,,,,A,B,Failed,1146,1,6.3,16.25,1
+20180336,M,267,NA,IP (X),SCHOOL X,B,,,A,,,,A,A,,,,,,,,A,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1,78.75,2
+20180337,F,252,NA,IP (Y),SCHOOL Y,C,,,E,,,,D,D,,,,,,,,,,,,,,,,,,,,,,C,,,,A,A,Passed,833,28,4.1,50,1
+20180338,F,257,NA,IP (Y),SCHOOL Y,C,,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1,77.5,1
+20180339,M,257,NA,IP (X),SCHOOL X,C,,,B,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,185,84,1.8,72.5,2
+20180340,F,231,NA,IP (Y),SCHOOL Y,S,,,U,,D,,U,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,1067,8,5,32.5,1
+20180341,F,0,NA,IP (Y),SCHOOL Y,A,,,U,,,,E,E,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,940,19,5,45,1
+20180342,F,248,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,C,,,E,,,,E,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,833,28,4.3,50,1
+20180343,F,259,NA,IP (Y),SCHOOL Y,S,,,U,,,,,,,,,S,,D,,,,,,,,,,,,,,,C,,,,,A,C,Passed,1104,5,5.3,27.5,1
+20180344,M,248,NA,IP (X),SCHOOL X,C,,,C,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,1
+20180345,M,0,NA,JAE Ordinary Admission,NEW TOWN SECONDARY SCHOOL,D,,,E,,,,D,D,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,923,20,4.5,46.25,1
+20180346,M,256,NA,IP (X),SCHOOL X,C,,,D,,,,B,A,,,,C,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,398,65,2.5,66.25,1
+20180347,M,250,NA,IP (X),SCHOOL X,,B,,,,,,,,D,,,,,C,,,,,,,,,,B,,,,,,,,,,A,B,Passed,499,57,2.8,62.5,1
+20180348,F,249,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,C,,,E,,,,,,A,,,B,,B,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.5,67.5,1
+20180349,M,258,NA,IP (X),SCHOOL X,D,,,E,,,E,S,,,,,,,,,,,,,,,,,,,,,,,B,,,,B,C,Passed,1006,13,4.9,40,1
+20180350,F,240,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,E,,,D,,,,B,A,,,,D,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,547,53,2.8,61.25,1
+20180351,F,254,NA,IP (Y),SCHOOL Y,D,,,C,,,B,B,,,,,,,,,,,,,,C,,,,,,,,,,,,,A,A,Passed,473,59,2.5,63.75,1
+20180352,F,261,NA,IP (Y),SCHOOL Y,C,,,C,,,,D,C,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180353,M,261,NA,IP (X),SCHOOL X,A,,,A,,,,B,,,,,B,,B,,,,,,,,,,,,,,,,,,,,A,B,Passed,164,86,1.8,73.75,1
+20180354,M,262,NA,IP (X),SCHOOL X,C,,,D,,,C,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,702,39,3.5,56.25,1
+20180355,M,242,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,S,,,B,,,B,A,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,499,57,2.5,62.5,1
+20180356,F,264,NA,IP (Y),SCHOOL Y,C,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,2
+20180357,F,263,NA,IP (Y),SCHOOL Y,D,,,E,,,,E,D,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,969,16,4.8,43.75,1
+20180358,F,248,NA,IP (Y),SCHOOL Y,S,,,U,,,,,,,,,S,,,,U,,,,,,,,,,,,U,,,,,,A,A,Failed,1158,0,6.7,7.5,1
+20180359,M,256,NA,IP (X),SCHOOL X,C,,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,304,73,2,68.75,1
+20180360,M,253,NA,IP (X),SCHOOL X,B,,,E,,B,,C,,,,,,,,,,,,,,,,,,,,,,,C,,,,A,E,Passed,624,46,3.3,58.75,1
+20180361,M,245,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,D,,,,D,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,789,32,3.8,52.5,1
+20180362,M,239,NA,IP (X),SCHOOL X,D,,,C,,,C,D,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,583,50,3,60,2
+20180363,M,260,NA,IP (X),SCHOOL X,C,,,C,,,,C,B,,,,,,C,,,,,,,,,,,,,,,,,,,,A,B,Passed,499,57,2.8,62.5,1
+20180364,F,239,NA,IP (Y),SCHOOL Y,E,,,,,,,,,C,,,C,,,,D,,,,,,,,,,,B,,,,,,,B,E,Passed,702,39,3.1,56.25,1
+20180365,F,262,NA,IP (Y),SCHOOL Y,B,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,2
+20180366,M,248,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,C,,,,B,A,,,,,,,,,,,,,,,,,,,,,,B,,,,A,B,Passed,345,70,2,67.5,1
+20180367,M,251,NA,DSA,HWA CHONG INSTITUTION (HIGH SCHOOL),C,,,D,,,C,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,742,36,3.8,55,2
+20180368,F,267,NA,IP (Y),SCHOOL Y,C,,,E,,,,D,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,789,32,4,52.5,1
+20180369,M,254,NA,IP (X),SCHOOL X,D,,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,345,70,2,67.5,1
+20180370,F,265,NA,IP (Y),SCHOOL Y,C,,,A,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,1
+20180371,F,0,NA,JAE Ordinary Admission,QUEENSTOWN SECONDARY SCHOOL,E,,,D,,,D,C,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,702,39,3.3,56.25,1
+20180372,M,254,NA,IP (X),SCHOOL X,E,,,E,,,,U,S,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1091,6,5.8,30,2
+20180373,F,0,NA,JAE Ordinary Admission,BUKIT VIEW SECONDARY SCHOOL,E,,,S,,,E,U,,,,,,,,,,,,,S,,,,,,,,,,,,,C,A,A,Passed,1067,8,5.7,32.5,1
+20180374,F,246,NA,DSA (CCA),CEDAR GIRLS' SECONDARY SCHOOL,S,,,E,,,S,U,,,,,,,,,,,,,,,,,,,,,,,C,,,,B,B,Passed,1118,4,5.6,25,1
+20180375,F,258,NA,IP (Y),SCHOOL Y,B,,,A,,,A,,,,,,B,,,,,,,A,,,,,,,,,,,,,,,A,B,Passed,43,96,1.3,77.5,1
+20180376,M,232,NA,DSA (CCA),ST. ANDREW'S SECONDARY SCHOOL,S,,,C,,,C,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,S,Passed,833,28,3.8,50,1
+20180377,F,246,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,E,,,U,,,,,,B,,,B,,C,,,,,,,,,,,,,,,,,,,,A,A,Passed,742,36,3.5,55,1
+20180378,M,256,NA,IP (X),SCHOOL X,A,,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,1
+20180379,M,245,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,D,,,B,,,B,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,D,Passed,583,50,3,60,1
+20180380,M,259,NA,IP (X),SCHOOL X,B,,,D,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,256,78,2.3,70,1
+20180381,M,232,NA,JAE Ordinary Admission,WEST SPRING SECONDARY SCHOOL,C,,,E,,,D,S,,,,,,,,,,,,,,,,,,,,,,,D,,,,B,E,Passed,995,14,4.9,41.25,1
+20180382,M,260,NA,IP (X),SCHOOL X,C,,,D,,,,C,MC,,,,S,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,1006,13,4.3,40,1
+20180383,F,250,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,,,A,,,,,,,,B,,,C,,,,D,,,,,,,,,,,,,,,,,A,B,Passed,431,63,2.5,65,2
+20180384,M,242,NA,JAE Ordinary Admission,ST. JOSEPH'S INSTITUTION,E,,,D,,,C,D,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,702,39,3.3,56.25,1
+20180385,M,257,NA,IP (X),SCHOOL X,C,,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,164,86,1.5,73.75,3
+20180386,M,254,NA,JAE Ordinary Admission,"SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE",B,,,D,,,,,,B,,,B,,,,B,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.5,67.5,1
+20180387,M,257,NA,IP (X),SCHOOL X,B,,,A,,,,C,A,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,218,81,2,71.25,2
+20180388,M,206,NA,DSA (CCA),CATHOLIC HIGH SCHOOL,S,,,U,,,U,S,,,,,U,,,,,,,,,,,,,,,,,,,,,,B,S,Failed,1158,0,6.8,7.5,1
+20180389,F,247,NA,JAE Ordinary Admission,ANGLICAN HIGH SCHOOL,C,,,B,,,,A,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180390,F,270,NA,IP (Y),SCHOOL Y,A,,,B,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.5,76.25,3
+20180391,F,259,NA,IP (Y),SCHOOL Y,D,,,C,,,,D,,,,,,,,,C,,,,,,,,,,,,,,C,,,,A,B,Passed,702,39,3.3,56.25,1
+20180392,F,262,NA,IP (Y),SCHOOL Y,C,,,D,,,,C,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180393,F,234,NA,DSA (CCA),TEMASEK SECONDARY SCHOOL,D,,,U,,,,,,D,,,C,,,,D,,,,,,,,,,,,,,,,,,A,E,Passed,923,20,4.5,46.25,1
+20180394,F,268,NA,IP (Y),SCHOOL Y,,,A,,,,,,,,B,,,A,,B,,,,,,,,,,,,A,,,,,,,A,A,Passed,91,92,1.4,76.25,2
+20180395,F,261,NA,IP (Y),SCHOOL Y,D,,,D,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,1
+20180396,F,259,NA,IP (Y),SCHOOL Y,D,,,U,,,,U,E,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1114,4,6,26.25,1
+20180397,F,257,NA,IP (Y),SCHOOL Y,E,,,S,,,,U,,,,,,,,,,,,,,D,,,,,,,,,C,,,,A,A,Passed,1091,6,5.3,30,1
+20180398,M,247,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,C,,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,256,78,2,70,1
+20180399,M,0,NA,IP (X),SCHOOL X,D,,,B,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,345,70,2,67.5,1
+20180400,M,264,NA,IP (X),SCHOOL X,C,,,A,,,,A,A,,,,,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.3,76.25,1
+20180401,F,260,NA,IP (Y),SCHOOL Y,D,,,S,,,,D,E,,,,C,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,923,20,4.5,46.25,1
+20180402,F,252,NA,Appeals (Academic),METHODIST GIRLS' SCHOOL (SECONDARY),D,,,U,,,E,S,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,E,Passed,1081,7,5.8,31.25,1
+20180403,F,240,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),C,,,E,,,,D,C,,,,,,,,,,,,E,,,,,,,,,,,,,D,A,A,Passed,821,29,4.2,51.25,1
+20180404,M,248,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),E,,,A,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.3,66.25,1
+20180405,F,253,NA,IP (Y),SCHOOL Y,E,,,E,,,,E,E,,,,,,,,,,,,,,,,,,,,,,C,,,,B,A,Passed,985,15,4.7,42.5,2
+20180406,M,242,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),C,,,MC,,,D,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,891,23,3.7,47.5,1
+20180407,F,255,NA,IP (Y),SCHOOL Y,E,,,B,,,C,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3,58.75,1
+20180408,F,258,NA,IP (Y),SCHOOL Y,C,,,B,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2,68.75,2
+20180409,F,264,NA,IP (Y),SCHOOL Y,B,,,D,,,,E,,,,,B,,,,A,,,,,,,,,,,,,,,,,,A,A,Passed,473,59,3,63.75,1
+20180410,F,246,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,C,,,A,,,,B,A,B,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,164,86,1.5,73.75,1
+20180411,M,255,NA,IP (X),SCHOOL X,S,,,B,,,D,D,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,833,28,3.8,50,1
+20180412,M,263,NA,IP (X),SCHOOL X,C,,,D,,,,D,B,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180413,F,263,NA,IP (Y),SCHOOL Y,C,,,S,,,,E,D,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,940,19,4.8,45,1
+20180414,F,232,NA,DSA (CCA),CHIJ ST. NICHOLAS GIRLS' SCHOOL,C,,,E,,,,U,,,,,,,D,,,,,,,,,,,,,,,,D,,,,A,B,Passed,1037,11,5.1,36.25,1
+20180415,M,237,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,E,,,D,,,C,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,821,29,3.8,51.25,2
+20180416,M,252,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,E,,,D,,,D,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,S,Passed,833,28,4,50,1
+20180417,M,252,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,D,,,C,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,2.8,61.25,1
+20180418,F,245,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,C,,,,,,,,,C,,C,C,,,,,,,,,,,,,,,A,,,,,,,A,B,Passed,499,57,2.7,62.5,1
+20180419,M,257,NA,IP (X),SCHOOL X,B,,,D,,,,,,,B,,,S,,,,B,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.5,58.75,2
+20180420,M,261,NA,IP (X),SCHOOL X,B,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180421,M,255,NA,IP (X),SCHOOL X,D,,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,164,86,1.5,73.75,1
+20180422,M,250,NA,IP (X),SCHOOL X,B,,,U,,,,B,,,,,D,,S,,,,,,,,,,,,,,,,,,,,B,C,Passed,969,16,4.8,43.75,2
+20180423,F,264,NA,IP (Y),SCHOOL Y,A,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1.3,78.75,1
+20180424,M,255,NA,IP (X),SCHOOL X,D,,,A,,,B,A,,,,,,,,,,,,,,,,,,,,,,,C,,,,B,A,Passed,218,81,1.6,71.25,1
+20180425,F,248,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,B,,,A,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,125,89,1.5,75,1
+20180426,M,240,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),E,,,B,,,,D,B,,,,D,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,624,46,3,58.75,1
+20180427,M,251,NA,IP (X),SCHOOL X,B,,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,2,70,2
+20180428,M,252,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,E,,,B,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,431,63,2.3,65,1
+20180429,F,261,NA,IP (Y),SCHOOL Y,D,,,E,,,B,B,,,,,,,,,D,,,,,,,,,,,,,,,,,,A,A,Passed,624,46,3.3,58.75,1
+20180430,M,247,NA,IP (X),SCHOOL X,C,,,B,,,,,,B,,,B,,C,,,,,,,,,,,,,,,,,,,,A,B,Passed,345,70,2.3,67.5,1
+20180431,M,261,NA,IP (X),SCHOOL X,E,,,E,,C,E,,,,,,,,,,,,,,,,,,,,,,,,E,,,,A,A,Passed,940,19,4.4,45,1
+20180432,F,249,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,D,,,D,,,,B,B,,,,E,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,624,46,3.3,58.75,1
+20180433,F,254,NA,IP (Y),SCHOOL Y,C,,,D,,,,S,D,,,,,,,,,,,,,,C,,,,,,,,,,,,B,A,Passed,833,28,4.3,50,1
+20180434,F,257,NA,IP (Y),SCHOOL Y,C,,,E,,,,E,D,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,789,32,4,52.5,1
+20180435,F,257,NA,IP (Y),SCHOOL Y,D,,,,,,,,,C,,,D,,,,D,,,,,,,,,,,S,,,,,,,A,B,Passed,868,25,4,48.75,1
+20180436,F,261,NA,IP (Y),SCHOOL Y,D,,,D,,,,D,C,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,821,29,4,51.25,1
+20180437,F,246,NA,DSA,CRESCENT GIRLS' SCHOOL,C,,,U,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,665,43,3.5,57.5,2
+20180438,M,264,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,B,,,C,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,91,92,1.5,76.25,2
+20180439,M,214,Repeat Yr1,DSA (CCA),ANGLICAN HIGH SCHOOL,E,,,E,,,,D,,,,,D,,,,,,,,,,,,,,,,,,,U,,,A,E,Passed,1006,13,4.7,40,0
+20180440,M,252,NA,IP (X),SCHOOL X,D,,,,,,,,,B,,,C,,D,,,,,,,,,,,,,C,,,,,,,A,D,Passed,624,46,3,58.75,1
+20180441,F,243,NA,JAE Ordinary Admission,SINGAPORE CHINESE GIRLS' SCHOOL,C,,,C,,,,C,C,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,665,43,3.5,57.5,1
+20180442,F,265,NA,IP (Y),SCHOOL Y,D,,,A,,,C,C,,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,547,53,3,61.25,1
+20180443,M,242,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,B,,,,A,B,,,,,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,256,78,1.8,70,1
+20180444,F,260,NA,IP (Y),SCHOOL Y,,A,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,80,2
+20180445,F,239,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),D,,,E,,,E,,,,,,C,,,,D,,,,,,,,,,,,,,,,,,A,A,Passed,868,25,4.3,48.75,1
+20180446,F,255,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,C,,,A,,,B,B,,,,,,,,,,,,,,,,B,,,,,,,,,,,A,B,Passed,218,81,1.8,71.25,1
+20180447,M,256,NA,DSA (CCA),HWA CHONG INSTITUTION (HIGH SCHOOL),C,,,E,,,,C,,,,,C,,,,C,,,,,,,,,,,,,,,,,,B,A,Passed,665,43,3.5,57.5,1
+20180448,M,244,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,E,,,,B,B,C,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,547,53,3,61.25,2
+20180449,F,255,NA,IP (Y),SCHOOL Y,D,,,,,,,,,,,,D,,,,,,,,S,D,,,,,,A,,,,,,,A,A,Passed,923,20,4.1,46.25,1
+20180450,M,241,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,D,,,A,,,,D,,C,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,499,57,2.8,62.5,1
+20180451,F,260,NA,IP (Y),SCHOOL Y,E,,,D,,,,C,B,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,547,53,2.8,61.25,1
+20180452,F,244,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,C,,,C,,,,E,E,,,,E,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,891,23,4.5,47.5,1
+20180453,M,255,NA,IP (X),SCHOOL X,C,,,U,,,,,,D,,,D,,,,D,,,,,,,,,,,,,,,,,,B,B,Passed,940,19,4.8,45,1
+20180454,F,259,NA,IP (Y),SCHOOL Y,D,,,C,,,,S,B,,,,C,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,702,39,3.5,56.25,1
+20180455,M,257,NA,IP (X),SCHOOL X,B,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180456,F,258,NA,IP (Y),SCHOOL Y,B,,,A,,,A,A,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180457,F,258,NA,IP (Y),SCHOOL Y,C,,,A,D,,A,,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180458,M,256,NA,IP (X),SCHOOL X,C,,,D,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,304,73,2.3,68.75,1
+20180459,M,266,NA,IP (X),SCHOOL X,C,,,D,,,D,D,,,,,,,,,,,,,,,,,,,,,,,B,,,,A,B,Passed,765,34,3.7,53.75,1
+20180460,F,261,NA,IP (Y),SCHOOL Y,B,,,B,,,,D,B,,,,,,,,,,,,,,B,,,,,,,,,,,,A,A,Passed,345,70,2.5,67.5,1
+20180461,F,265,NA,IP (Y),SCHOOL Y,B,,,S,,,D,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,868,25,4.5,48.75,2
+20180462,F,253,NA,JAE Ordinary Admission,ANDERSON SECONDARY SCHOOL,C,,,U,,,,,,C,,,U,,E,,,,,,,,,,,,,,,,,,,,A,B,Passed,1067,8,5.5,32.5,1
+20180463,M,237,NA,JAE Ordinary Admission,COMMONWEALTH SECONDARY SCHOOL,B,,,U,,,,,,A,,,D,,,,B,,,,,,,,,,,,,,,,,,A,B,Passed,624,46,3.5,58.75,1
+20180464,M,237,NA,IP (X),SCHOOL X,D,,,C,,,B,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,583,50,3,60,2
+20180465,M,262,NA,IP (X),SCHOOL X,C,,,E,,,B,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,742,36,3.8,55,1
+20180466,M,259,NA,IP (X),SCHOOL X,,,B,E,,,,,,,C,,,,,D,,,,,,,,,,,,,,,,,,,A,C,Passed,742,36,3.5,55,2
+20180467,F,259,NA,IP (Y),SCHOOL Y,B,,,D,,,,E,B,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,624,46,3.5,58.75,1
+20180468,F,261,NA,IP (Y),SCHOOL Y,D,,,E,,,,E,E,,,,,,,,,,,,,C,,,,,,,,,,,,,A,A,Passed,923,20,4.5,46.25,1
+20180469,M,262,NA,IP (X),SCHOOL X,C,,,B,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,164,86,1.5,73.75,1
+20180470,F,249,NA,JAE Ordinary Admission,ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL,D,,,S,,,,,,C,,,D,,,,B,,,,,,,,,,,,,,,,,,A,C,Passed,765,34,3.8,53.75,1
+20180471,F,250,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),D,,,S,,,D,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,821,29,4,51.25,1
+20180472,M,252,NA,IP (X),SCHOOL X,E,,,C,,,,C,D,,,,E,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,789,32,3.8,52.5,1
+20180473,F,233,NA,DSA (CCA),PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY),S,,,E,,,S,S,,,,,,,,,S,,,,,,,,,,,,,,,,,,A,A,Passed,1118,4,5.8,25,1
+20180474,F,247,NA,IP (Y),SCHOOL Y,D,,,U,,,,U,U,,,,S,,,,,,,,,,,,,,,,,,,,,,A,A,Failed,1153,1,6.8,11.25,1
+20180475,M,236,NA,JAE Ordinary Admission,FUHUA SECONDARY SCHOOL,D,,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,256,78,1.8,70,1
+20180476,F,263,NA,IP (Y),SCHOOL Y,C,,,B,,,,B,B,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,304,73,2,68.75,1
+20180477,F,267,NA,IP (Y),SCHOOL Y,D,,,D,,,,,,B,,,E,,,,E,,,,,,,,,,,,,,,,,,A,A,Passed,821,29,4,51.25,1
+20180478,F,250,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,D,,,E,,,D,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,923,20,4.5,46.25,1
+20180479,M,251,NA,IP (X),SCHOOL X,D,,,D,,,C,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,665,43,3.3,57.5,1
+20180480,M,243,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,E,,,D,,,,C,C,,,,,,,,B,,,,,,,,,,,,,,,,,,A,E,Passed,624,46,3,58.75,1
+20180481,M,258,NA,DSA,HWA CHONG INSTITUTION (HIGH SCHOOL),D,,,D,,,C,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,583,50,3,60,1
+20180482,F,247,NA,JAE Ordinary Admission,SINGAPORE CHINESE GIRLS' SCHOOL,B,,,,,,,,,A,,,C,,A,,,,,,,,,,,,,B,,,,,,,A,E,Passed,185,84,1.7,72.5,1
+20180483,F,265,NA,IP (Y),SCHOOL Y,C,,,B,,,,B,A,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,218,81,1.8,71.25,2
+20180484,F,267,NA,IP (Y),SCHOOL Y,D,,,S,,,,E,,,,,D,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,868,25,4.3,48.75,1
+20180485,F,261,NA,IP (Y),SCHOOL Y,C,,,D,,,E,D,,,,,,,,,,,,,,,,,C,,,,,,,,,,A,A,Passed,789,32,4,52.5,2
+20180486,M,255,NA,IP (X),SCHOOL X,D,,,C,,,C,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,547,53,2.8,61.25,1
+20180487,M,257,NA,IP (X),SCHOOL X,C,,,A,,,,C,D,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,398,65,2.5,66.25,1
+20180488,F,241,NA,JAE Ordinary Admission,XINMIN SECONDARY SCHOOL,E,,,B,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,431,63,2.3,65,1
+20180489,F,254,NA,IP (Y),SCHOOL Y,C,,,B,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,185,84,1.8,72.5,1
+20180490,F,269,NA,IP (Y),SCHOOL Y,B,,,A,,,,A,A,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,43,96,1.3,77.5,1
+20180491,F,245,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,E,,,S,,,,E,C,,,,D,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,940,19,4.5,45,1
+20180492,M,238,NA,JAE Ordinary Admission,MARIS STELLA HIGH SCHOOL,U,,,A,B,,A,,,,,,C,,,,,,,,,,,,,,,,,,,,,,B,E,Passed,431,63,1.8,65,1
+20180493,M,248,NA,IP (X),SCHOOL X,D,,,S,,,D,D,,,,,,,,,,,,,,,,,,,,,,,B,,,,B,B,Passed,940,19,4.3,45,1
+20180494,M,244,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),D,,,U,,,,S,C,,,,,,,,B,,,,,,,,,,,,,,,,,,A,B,Passed,969,16,4.5,43.75,2
+20180495,F,260,NA,IP (Y),SCHOOL Y,C,,,D,,,,B,A,,,,,,,,,,,,,,,,,,,,,C,,,,,A,B,Passed,431,63,2.4,65,1
+20180496,M,251,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,E,,,E,,,D,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,985,15,4.8,42.5,1
+20180497,F,264,NA,IP (Y),SCHOOL Y,A,,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,23,98,1.3,78.75,2
+20180498,M,253,NA,IP (X),SCHOOL X,D,,,D,,,,U,,,,,,,E,,,,,,,,,,,,,,,,B,,,,B,B,Passed,1024,12,4.9,37.5,1
+20180499,F,239,NA,JAE Ordinary Admission,SWISS COTTAGE SECONDARY SCHOOL,E,,,U,,,,U,,,,,E,,,,E,,,,,,,,,,,,,,,,,,A,D,Passed,1118,4,6,25,1
+20180500,F,255,NA,IP (Y),SCHOOL Y,D,,,D,,,,B,D,,,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,583,50,3,60,1

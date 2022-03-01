@@ -1,0 +1,501 @@
+﻿NEWID,GENDER,PSLE,REPEAT,INTAKE,SEC SCHOOL,PW,KI,GP,KI (A),MA2,FM2,CP2,PH2,CH2,BY2,EL2,EL2 (A),ELL2,EC2,EC2 (A),EH2,EH2 (A),EG2,EG2 (A),S1_2,S2_2,S3_2,S4_2,S5_2,FR2,GM2,JP2,SP2,MA1,PH1,CH1,EL1,EC1,EG1,MA3-MOE,PH3-MOE,CH3-MOE,BY3-MOE,EC3-MOE,S1_3-MOE,S2_3-MOE,PW,MTL,P/F,RANK,%,MSG/GPA,PTS,NO OF CCA
+20200001,F,0,NA,JAE Ordinary Admission,"SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE",A,,B,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,227,78,1.4,85,1
+20200002,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,B,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200003,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,B,,B,,,,E,,,,,D,,D,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.4,66.25,1
+20200004,M,0,NA,IP (X),SCHOOL X,A,,C,,D,,,U,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,936,11,4.6,52.5,2
+20200005,F,0,NA,IP (Y),SCHOOL Y,A,,D,,S,,,,S,E,,,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,974,8,5,43.75,1
+20200006,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,E,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,884,16,4.1,58.75,1
+20200007,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,D,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,727,31,3,70,2
+20200008,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.3,77.5,1
+20200009,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200010,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,C,,D,,,,B,C,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,748,29,3,68.75,1
+20200011,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200012,M,246,NA,DSA (CCA),CATHOLIC HIGH SCHOOL,B,,C,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,D,Passed,538,49,2,77.5,1
+20200013,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,,C,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,572,46,2.3,76.25,1
+20200014,M,247,NA,DSA,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,B,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,B,,,,UC,,,,,A,B,Passed,121,88,1.1,87.5,2
+20200015,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,B,,B,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,2
+20200016,F,0,NA,IP (Y),SCHOOL Y,A,,B,,,,,,,,B,,,A,,,,B,,,,,,,,,,,A,,,,,,,,,,,,,A,B,Passed,280,73,1.5,83.75,1
+20200017,F,0,NA,IP (Y),SCHOOL Y,A,,B,,D,,,,S,D,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,884,16,4.1,58.75,1
+20200018,F,0,NA,IP (Y),SCHOOL Y,B,,B,,B,,,,B,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,429,59,2,80,2
+20200019,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,B,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,B,Passed,280,73,1.9,83.75,1
+20200020,M,0,NA,IP (X),SCHOOL X,A,,B,,S,,,,D,C,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.4,66.25,1
+20200021,M,0,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,A,,D,,U,,,,E,E,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,965,9,5,46.25,2
+20200022,M,0,NA,IP (X),SCHOOL X,B,,C,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,489,54,2,78.75,1
+20200023,F,0,NA,IP (Y),SCHOOL Y,A,,A,,E,,,,E,E,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,936,11,4.8,52.5,1
+20200024,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200025,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,C,,A,,,,B,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,1.6,72.5,1
+20200026,M,0,NA,IP (X),SCHOOL X,B,,B,,E,,,C,S,,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,B,A,Passed,875,17,4,60,1
+20200027,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,S,E,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,952,10,4.8,48.75,1
+20200028,F,0,NA,IP (Y),SCHOOL Y,A,A,,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,1,100,1,90,1
+20200029,F,0,NA,JAE Ordinary Admission,PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,C,,,,B,,,,,D,,,,B,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,608,42,2.6,75,1
+20200030,F,0,NA,IP (Y),SCHOOL Y,A,,B,,S,,,S,,,C,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,944,11,4.6,51.25,1
+20200031,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,S,,A,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.7,61.25,1
+20200032,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200033,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,121,88,1.2,87.5,2
+20200034,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,,,,A,,,C,,A,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,121,88,1.4,87.5,2
+20200035,F,223,NA,DSA (CCA),SCHOOL Y,A,,B,,D,,,,B,D,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,A,B,Passed,748,29,3,68.75,1
+20200036,F,0,NA,IP (Y),SCHOOL Y,A,,C,,A,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,489,54,2.1,78.75,1
+20200037,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,C,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200038,F,0,NA,IP (Y),SCHOOL Y,A,,,A,,,,,,,,B,,,U,,,,C,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,834,21,3,62.5,2
+20200039,F,249,NA,DSA (CCA),CRESCENT GIRLS' SCHOOL,A,,A,,C,,,,B,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.9,82.5,2
+20200040,F,251,NA,Appeals (Academic),NAN HUA HIGH SCHOOL,A,,C,,U,,,,,,,,,B,,D,,,,,,,,,,,,,,,,B,,,,,,,,,,A,B,Passed,909,14,3.6,56.25,3
+20200041,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,S,D,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,952,10,4.8,48.75,1
+20200042,F,0,NA,DSA,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,2
+20200043,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,B,,,,,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,189,82,1.4,86.25,2
+20200044,F,0,NA,JAE Ordinary Admission,CLEMENTI TOWN SECONDARY SCHOOL,A,,B,,,,,,,,B,,,E,,,,D,,,,,,,,,,,E,,,,,,,,,,,,,A,C,Passed,816,23,3.5,63.75,1
+20200045,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,280,73,1.7,83.75,1
+20200046,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,C,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,2
+20200047,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,C,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200048,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,1
+20200049,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,B,,,,,A,,,,,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200050,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,DI,,,A,A,Passed,189,82,1.4,86.25,1
+20200051,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,D,,,,,B,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.4,66.25,1
+20200052,M,242,NA,DSA (CCA),CATHOLIC HIGH SCHOOL,A,,C,,U,,,,U,S,,,,,,,,,,,,,,,,,,,,,,,,U,,,,,,,,A,C,Failed,1032,2,6,22.5,1
+20200053,F,0,NA,JAE Ordinary Admission,ASSUMPTION ENGLISH SCHOOL,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,2
+20200054,F,0,NA,IP (Y),SCHOOL Y,A,,A,,S,,,,S,D,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,949,10,4.8,50,1
+20200055,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,,,,,,,,,,,,,A,,,,,,,,,PA,,,,,,,A,A,Passed,1,100,1,90,1
+20200056,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,C,,B,,,E,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,766,27,3.2,67.5,1
+20200057,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,B,,,A,A,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,429,59,2.1,80,1
+20200058,F,0,NA,IP (Y),SCHOOL Y,A,,A,,S,,,D,U,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,920,13,4.3,55,1
+20200059,F,0,NA,JAE Ordinary Admission,GAN ENG SENG SCHOOL,A,,B,,B,,,,C,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,1
+20200060,F,0,NA,IP (Y),SCHOOL Y,A,,D,,A,,,C,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,1.9,78.75,1
+20200061,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,B,,C,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,608,42,2.6,75,1
+20200062,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,B,,C,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200063,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,1,100,1,90,1
+20200064,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,E,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,708,33,3,71.25,1
+20200065,M,0,NA,IP (X),SCHOOL X,B,,A,,B,,,,A,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,429,59,2.2,80,1
+20200066,M,0,NA,IP (X),SCHOOL X,A,,D,,E,,,U,S,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,1002,5,5.4,36.25,1
+20200067,M,0,NA,IP (X),SCHOOL X,B,,C,,B,,,,A,,,,,C,,,,,,,,,C,,,,,,,,,,,,,,PA,,,,,B,A,Passed,572,46,2.2,76.25,1
+20200068,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,DI,,,,,,A,A,Passed,1,100,1,90,1
+20200069,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.9,82.5,1
+20200070,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,E,D,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,748,29,3.2,68.75,1
+20200071,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,B,A,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.9,82.5,1
+20200072,M,0,NA,IP (X),SCHOOL X,A,,B,,U,,,,U,E,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,984,7,5.2,41.25,1
+20200073,M,0,NA,IP (X),SCHOOL X,A,,,A,A,,,,,,,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,1,100,1,90,2
+20200074,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200075,M,0,NA,JAE Ordinary Admission,DAMAI SECONDARY SCHOOL,A,,D,,C,,,B,D,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.6,72.5,1
+20200076,F,0,NA,IP (Y),SCHOOL Y,A,,B,,D,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200077,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,S,E,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,952,10,4.8,48.75,1
+20200078,F,0,NA,IP (Y),SCHOOL Y,A,,C,,S,,,,D,E,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,960,9,4.8,47.5,1
+20200079,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,B,,A,,A,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,D,Passed,489,54,2.2,78.75,1
+20200080,F,0,NA,IP (Y),SCHOOL Y,B,,B,,E,,,,B,C,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,,B,A,Passed,727,31,3.1,70,1
+20200081,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,61,94,1.2,88.75,1
+20200082,M,0,NA,IP (X),SCHOOL X,B,,B,,S,,,D,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,875,17,4,60,1
+20200083,F,0,NA,IP (Y),SCHOOL Y,B,,B,,U,,,,,,B,,,,,C,,,,,,,,,,,,,,,,,C,,,,,,,,,B,B,Passed,899,15,3.6,57.5,1
+20200084,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200085,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200086,F,0,Repeat Yr2,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),B,,B,,U,,,,U,S,,,,EX,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Failed,1032,2,6,22.5,0
+20200087,M,0,NA,IP (X),SCHOOL X,B,,B,,U,,U,U,,,,,,,,,,,,,,,,,,,,,,,,,E,,,,,,,,,B,B,Failed,1032,2,6.1,22.5,1
+20200088,F,0,NA,IP (Y),SCHOOL Y,A,,C,,D,,,,B,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.6,73.75,2
+20200089,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,DI,,,B,B,Passed,121,88,1.1,87.5,1
+20200090,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,227,78,1.4,85,1
+20200091,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,B,,B,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,538,49,2.3,77.5,1
+20200092,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,B,C,,B,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,636,40,2.6,73.75,1
+20200093,F,0,NA,IP (Y),SCHOOL Y,A,,B,,S,,,,S,C,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,965,9,4.8,46.25,1
+20200094,F,0,NA,IP (Y),SCHOOL Y,A,,A,,B,,,,A,B,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,2
+20200095,F,0,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,227,78,1.4,85,1
+20200096,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,,,B,,,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.8,73.75,1
+20200097,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,,,,B,,,A,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200098,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,B,,D,,,,S,,,,,B,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,748,29,3.2,68.75,1
+20200099,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200100,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.7,85,2
+20200101,M,0,NA,IP (X),SCHOOL X,A,,B,,D,,,D,B,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200102,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,C,D,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,748,29,3.2,68.75,1
+20200103,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,E,C,,,,,,,,,,,,,,,,,,,,,,,,E,,,,,,,,,A,D,Passed,816,23,3.5,63.75,1
+20200104,F,0,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),A,,C,,S,,,,D,D,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,920,13,4.3,55,1
+20200105,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200106,M,0,NA,IP (X),SCHOOL X,A,,D,,E,,,,C,D,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.7,61.25,1
+20200107,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,C,,,,,,B,,,D,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,636,40,2.6,73.75,1
+20200108,M,0,NA,JAE Ordinary Admission,SERANGOON GARDEN SECONDARY SCHOOL,B,,C,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,572,46,2.2,76.25,1
+20200109,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200110,F,0,NA,IP (Y),SCHOOL Y,A,,B,,,,,,,,,B,,,,,,,C,,,,E,,,,,,A,,,,,,,,,,,,,A,C,Passed,708,33,2.8,71.25,1
+20200111,F,0,NA,IP (Y),SCHOOL Y,A,,C,,B,,,,B,B,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,1.9,78.75,1
+20200112,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,,B,B,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,538,49,2.4,77.5,1
+20200113,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,,C,D,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.4,66.25,1
+20200114,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,227,78,1.4,85,1
+20200115,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,B,A,Passed,189,82,1.3,86.25,1
+20200116,F,0,NA,IP (Y),SCHOOL Y,A,,D,,,,,,,,,,,U,,,,,,,,D,C,,,,,,U,,,,,,,,,,,,,A,A,Passed,974,8,4.5,43.75,1
+20200117,F,0,NA,IP (Y),SCHOOL Y,A,A,,,A,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,1,100,1,90,1
+20200118,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,A,A,Passed,61,94,1.2,88.75,2
+20200119,F,0,NA,JAE Ordinary Admission,CHIJ SECONDARY (TOA PAYOH),A,,C,,A,,,E,C,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,676,36,2.8,72.5,1
+20200120,M,0,NA,IP (X),SCHOOL X,B,,A,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,B,B,Passed,227,78,1.6,85,1
+20200121,M,0,NA,IP (X),SCHOOL X,A,,C,,U,,,,U,C,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,960,9,4.6,47.5,1
+20200122,M,0,NA,IP (X),SCHOOL X,A,A,,,A,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200123,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,C,C,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,ME,,A,A,Passed,636,40,2.6,73.75,1
+20200124,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,121,88,1.2,87.5,2
+20200125,F,0,NA,IP (Y),SCHOOL Y,A,,A,,B,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200126,F,0,NA,IP (Y),SCHOOL Y,A,,B,,D,,,E,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.9,61.25,1
+20200127,M,0,NA,IP (X),SCHOOL X,A,,D,,C,,S,B,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.7,61.25,2
+20200128,M,0,NA,IP (X),SCHOOL X,A,,B,,D,,,B,E,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,852,19,3.9,61.25,1
+20200129,F,0,NA,IP (Y),SCHOOL Y,A,,A,,B,,,,A,B,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,189,82,1.4,86.25,1
+20200130,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,2
+20200131,M,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,B,,,C,,,,,,D,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,766,27,3,67.5,1
+20200132,F,0,NA,IP (Y),SCHOOL Y,A,,A,,E,,,,C,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,3,72.5,1
+20200133,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,A,B,,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200134,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,C,,,,,,,,B,,,D,,,,,,B,,,,,,,,,B,,,,,,,,,,,PA,,A,B,Passed,636,40,2.4,73.75,1
+20200135,M,0,NA,IP (X),SCHOOL X,A,,C,,C,,,,B,S,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,899,15,3.9,57.5,1
+20200136,F,0,NA,IP (Y),SCHOOL Y,A,,D,,U,,,U,S,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Failed,1026,3,5.9,26.25,2
+20200137,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1,88.75,1
+20200138,M,0,NA,IP (X),SCHOOL X,B,,A,,E,,,,S,,,,,B,,,,,,,,,C,,,,,,,,,,,,,,,,,,,B,A,Passed,816,23,3.8,63.75,1
+20200139,M,0,NA,IP (X),SCHOOL X,A,,B,,D,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,608,42,2.6,75,1
+20200140,F,259,Repeat Yr1,IP (Y),SCHOOL Y,B,,A,,U,,,,E,C,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,B,A,Passed,927,12,4.1,53.75,0
+20200141,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,C,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.1,77.5,1
+20200142,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,A,,,E,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,748,29,3.2,68.75,1
+20200143,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,B,,,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.9,82.5,1
+20200144,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200145,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,UC,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200146,M,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,C,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.4,83.75,1
+20200147,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,B,A,,,,,,,,,,,,,,B,,,,,,,,,,,,,,ME,,,,,B,A,Passed,280,73,1.6,83.75,1
+20200148,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,D,,B,,,E,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,884,16,3.9,58.75,2
+20200149,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,C,,,,,B,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200150,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,D,,U,,,U,U,,,,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,A,A,Failed,1026,3,5.9,26.25,1
+20200151,F,0,NA,JAE Ordinary Admission,WEST SPRING SECONDARY SCHOOL,A,,C,,B,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,2
+20200152,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,PA,,,,,,A,B,Passed,328,69,1.7,82.5,2
+20200153,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,A,A,Passed,1,100,1,90,2
+20200154,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,B,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200155,F,234,NA,DSA (CCA),TEMASEK SECONDARY SCHOOL,A,,B,,A,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200156,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,A,,D,,B,,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,708,33,3,71.25,1
+20200157,F,0,NA,IP (Y),SCHOOL Y,A,,,A,B,,,,,,,B,,,B,,,,,,,,,,,,,,,,,,,,,,,,ME,,,A,A,Passed,328,69,1.7,82.5,1
+20200158,M,0,NA,IP (X),SCHOOL X,B,,D,,U,,,E,U,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,,B,A,Passed,1018,4,5.5,31.25,1
+20200159,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,U,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,E,,,,,,,,,A,B,Failed,1031,3,6,23.75,1
+20200160,M,0,NA,IP (X),SCHOOL X,A,,A,,B,,,S,,,,,,D,,,,,,,,C,,,,,,,,,,,,,,,,,,,,A,A,Passed,766,27,3.4,67.5,1
+20200161,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,B,,,,,,E,,,,,E,,C,,,,,,,,,,,,,B,,,,,,,,,,,,,A,C,Passed,834,21,3.6,62.5,1
+20200162,F,0,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,A,,D,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,280,73,1.4,83.75,1
+20200163,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,B,,B,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,429,59,2.1,80,1
+20200164,M,0,NA,IP (X),SCHOOL X,A,,A,,B,,,,D,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,572,46,2.6,76.25,1
+20200165,F,0,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,A,,C,,C,,,S,C,,,,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,834,21,3.7,62.5,1
+20200166,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,,,A,,,B,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,2
+20200167,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,,C,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,636,40,2.8,73.75,1
+20200168,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,C,,,C,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,636,40,2.6,73.75,1
+20200169,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,280,73,1.4,83.75,1
+20200170,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,A,A,Passed,328,69,1.7,82.5,1
+20200171,F,0,NA,JAE Ordinary Admission,CHIJ SECONDARY (TOA PAYOH),B,,C,,B,,,E,B,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,B,A,Passed,636,40,2.7,73.75,1
+20200172,F,0,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,C,,,C,B,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,A,B,Passed,489,54,2.1,78.75,2
+20200173,F,0,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),A,,A,,D,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.3,78.75,1
+20200174,F,0,NA,DSA,METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,S,,,,,,,B,,,S,,,,B,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,852,19,3.7,61.25,1
+20200175,F,251,NA,DSA,SINGAPORE CHINESE GIRLS' SCHOOL,B,,A,,B,,,,,,,B,,,B,,B,,,,,,,,,,,,,,,,,,,,,,,,,B,NA,Passed,429,59,2,80,2
+20200176,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,U,E,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,A,D,Passed,1002,5,5.3,36.25,1
+20200177,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,B,B,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200178,M,0,NA,IP (X),SCHOOL X,B,,C,,D,,,S,U,,,,,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,B,B,Passed,944,11,4.4,51.25,1
+20200179,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,A,,B,,,,B,,,,,A,,A,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,2
+20200180,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,B,,B,,,,B,,B,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,1
+20200181,F,0,NA,IP (Y),SCHOOL Y,A,,D,,S,,,S,E,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,A,C,Passed,994,6,5.1,38.75,1
+20200182,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,,A,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,394,62,2,81.25,1
+20200183,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,B,,,A,,A,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,61,94,1.2,88.75,2
+20200184,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,B,A,Passed,189,82,1.3,86.25,1
+20200185,F,0,NA,IP (Y),SCHOOL Y,A,,B,,,,,,S,,B,,,S,,,,,,,,,,,,,,,A,,,,,,,,,,,,,A,A,Passed,909,14,3.8,56.25,1
+20200186,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,D,,C,,,S,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,927,12,4.3,53.75,1
+20200187,F,0,NA,IP (Y),SCHOOL Y,A,,C,,C,,,,D,D,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,834,21,3.7,62.5,1
+20200188,F,0,NA,JAE Ordinary Admission,FUHUA SECONDARY SCHOOL,A,,B,,C,,,D,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,727,31,3,70,1
+20200189,M,0,NA,JAE Ordinary Admission,SWISS COTTAGE SECONDARY SCHOOL,A,,C,,A,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200190,M,0,NA,IP (X),SCHOOL X,B,,B,,C,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,608,42,2.4,75,1
+20200191,M,0,NA,JAE Ordinary Admission,PEI HWA SECONDARY SCHOOL,B,,B,,D,,B,B,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,B,A,Passed,636,40,2.7,73.75,1
+20200192,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,B,,B,,E,,,S,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,899,15,4.2,57.5,1
+20200193,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,B,C,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200194,F,0,NA,JAE Ordinary Admission,PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,C,,,B,E,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,816,23,3.7,63.75,1
+20200195,F,0,NA,JAE Ordinary Admission,ST. MARGARET'S SECONDARY SCHOOL,A,,C,,B,,,C,B,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.1,77.5,1
+20200196,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,E,C,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.9,61.25,1
+20200197,F,0,NA,DSA (CCA),CLEMENTI TOWN SECONDARY SCHOOL,A,,B,,,,,,,,B,,,B,,B,,,,,,,,,,,,,A,,,,,,,,,,,,,A,B,Passed,394,62,1.8,81.25,1
+20200198,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,D,,D,,,,B,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,676,36,2.6,72.5,1
+20200199,F,0,NA,JAE Ordinary Admission,ST. MARGARET'S SECONDARY SCHOOL,A,,B,,A,,,,B,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,394,62,1.9,81.25,1
+20200200,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,S,D,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,A,B,Passed,974,8,4.8,43.75,1
+20200201,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,A,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200202,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,B,,A,,,,,,B,,,B,,A,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200203,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,C,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,189,82,1.2,86.25,1
+20200204,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200205,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.7,82.5,2
+20200206,F,233,NA,DSA (CCA),SINGAPORE CHINESE GIRLS' SCHOOL,A,,B,,E,,,,U,U,,,,,,,,,,,,,,,,,,,,,,,B,,,,,,,,,A,B,Passed,997,6,5.1,37.5,1
+20200207,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,B,,C,,,,C,,,,,C,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.6,73.75,1
+20200208,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,A,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.7,82.5,2
+20200209,F,0,NA,JAE Ordinary Admission,BEDOK GREEN SECONDARY SCHOOL,A,,C,,S,,,,,,,,,C,,,,C,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,727,31,3,70,1
+20200210,F,0,NA,IP (Y),SCHOOL Y,A,,B,,S,,,S,,,,,,D,,,,,,,,,,,,,,,,,A,,,,,,,,,,,A,B,Passed,944,11,4.3,51.25,2
+20200211,M,0,NA,JAE Ordinary Admission,CHANGKAT CHANGI SECONDARY SCHOOL,B,,C,,A,,,A,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,ME,,,,,,B,A,Passed,189,82,1.1,86.25,1
+20200212,M,0,NA,IP (X),SCHOOL X,B,,C,,C,,,E,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,748,29,3.1,68.75,1
+20200213,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,B,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,227,78,1.4,85,1
+20200214,M,0,NA,IP (X),SCHOOL X,B,,B,,C,,,C,B,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,727,31,3.1,70,1
+20200215,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,A,A,,,,,,C,,,,,,,,,,,,,,,,,,,,,,DI,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200216,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,1,100,1,90,1
+20200217,M,0,NA,IP (X),SCHOOL X,A,,A,,U,,,,,,,B,,,E,,C,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,834,21,3.9,62.5,1
+20200218,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,S,E,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,PA,,A,A,Passed,816,23,3.7,63.75,1
+20200219,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,C,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200220,F,0,NA,IP (Y),SCHOOL Y,A,,D,,U,,S,U,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1018,4,5.7,31.25,1
+20200221,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,A,A,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200222,F,0,NA,IP (Y),SCHOOL Y,A,,C,,B,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,189,82,1.2,86.25,1
+20200223,F,0,NA,JAE Ordinary Admission,WHITLEY SECONDARY SCHOOL,A,,U,,D,,,C,D,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3,61.25,1
+20200224,M,0,NA,IP (X),SCHOOL X,A,,C,,A,,,C,C,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200225,M,0,NA,IP (X),SCHOOL X,A,A,,,A,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,DI,DI,,,,A,A,Passed,1,100,1,90,1
+20200226,M,0,NA,IP (X),SCHOOL X,A,,C,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.4,83.75,1
+20200227,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200228,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,A,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,2.1,80,1
+20200229,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1,88.75,1
+20200230,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,D,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.3,77.5,1
+20200231,M,0,NA,IP (X),SCHOOL X,B,,A,,C,,,,,,,B,,,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,636,40,2.9,73.75,1
+20200232,M,0,NA,IP (X),SCHOOL X,A,A,,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,,A,A,Passed,1,100,1,90,1
+20200233,F,242,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,C,,,C,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,NA,Passed,636,40,2.6,73.75,1
+20200234,F,0,NA,IP (Y),SCHOOL Y,A,A,,,A,,,B,A,,,,,,,,,,,,,,,,,,,,,,,,,,UC,,,,,,,A,A,Passed,121,88,1.2,87.5,2
+20200235,F,0,NA,IP (Y),SCHOOL Y,A,,C,,D,,,,C,C,,,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,782,26,3.2,66.25,2
+20200236,F,0,NA,IP (Y),SCHOOL Y,A,,C,,B,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,572,46,2.3,76.25,2
+20200237,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200238,F,243,NA,DSA (CCA),CRESCENT GIRLS' SCHOOL,A,,B,,U,,,,,,B,,,E,,D,,,,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,884,16,4.1,58.75,1
+20200239,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200240,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,B,Passed,1,100,1,90,2
+20200241,M,250,NA,DSA (CCA),SCHOOL X,A,,C,,D,,,S,S,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,A,E,Passed,980,7,4.9,42.5,1
+20200242,M,248,NA,DSA (CCA),ST. JOSEPH'S INSTITUTION,A,,B,,A,,,,A,B,B,,,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,E,Passed,227,78,1.4,85,1
+20200243,M,0,NA,IP (X),SCHOOL X,A,,A,,B,,,,,,,,,C,,B,,,,,,,,A,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.9,82.5,1
+20200244,M,0,NA,IP (X),SCHOOL X,A,,B,,S,,,,U,,,,,D,,B,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,927,12,4.3,53.75,1
+20200245,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,B,C,,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,572,46,2.3,76.25,1
+20200246,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,572,46,2.3,76.25,1
+20200247,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,B,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,121,88,1.2,87.5,1
+20200248,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,C,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200249,F,0,NA,JAE Ordinary Admission,GAN ENG SENG SCHOOL,A,,S,,B,,,C,C,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,A,A,Passed,727,31,2.3,70,1
+20200250,F,0,NA,JAE Ordinary Admission,DUNMAN SECONDARY SCHOOL,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200251,M,215,NA,DSA (CCA),BUKIT PANJANG GOVT. HIGH SCHOOL,A,,S,,U,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,,A,E,Failed,1046,1,5.9,18.75,1
+20200252,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,C,C,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.8,73.75,1
+20200253,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,B,A,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,ME,,A,A,Passed,227,78,1.4,85,2
+20200254,F,0,NA,IP (Y),SCHOOL Y,A,,C,,U,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,E,,,,,,,,,A,A,Failed,1032,2,6,22.5,1
+20200255,F,0,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,A,,B,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,61,94,1,88.75,1
+20200256,M,0,NA,JAE Ordinary Admission,YISHUN SECONDARY SCHOOL,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200257,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (YISHUN),A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200258,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,2.6,76.25,1
+20200259,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,ME,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200260,F,0,NA,IP (Y),SCHOOL Y,B,,C,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,UC,,,,,B,A,Passed,328,69,1.6,82.5,1
+20200261,M,235,Repeat Yr1,DSA (CCA),NAN HUA HIGH SCHOOL,B,,E,,U,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,,U,,,,,,,,B,NA,Failed,1054,0,6.4,13.75,1
+20200262,F,0,NA,IP (Y),SCHOOL Y,A,,D,,B,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,2.1,76.25,2
+20200263,M,0,NA,IP (X),SCHOOL X,A,,C,,B,,,C,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.6,73.75,1
+20200264,F,0,NA,IP (Y),SCHOOL Y,A,,C,,,,,,,,,,,S,,B,,,,,,,S,,,,,,S,,,,,,,,,,,,,A,B,Passed,960,9,4.4,47.5,1
+20200265,F,0,NA,JAE Ordinary Admission,TANJONG KATONG SECONDARY SCHOOL,A,,E,,E,,,,D,E,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,936,11,4.3,52.5,1
+20200266,M,0,NA,IP (X),SCHOOL X,B,,E,,A,,A,A,,,,,,C,,,,,,,,,,,,,,,,,,,,,ME,,,,,,,B,A,Passed,394,62,1.6,81.25,1
+20200267,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,B,Passed,394,62,1.9,81.25,1
+20200268,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,61,94,1.2,88.75,1
+20200269,M,246,NA,DSA,NAN HUA HIGH SCHOOL,B,,,A,B,,,,,,,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,B,D,Passed,280,73,1.6,83.75,2
+20200270,M,0,NA,IP (X),SCHOOL X,A,,B,,C,,,B,A,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,A,B,Passed,280,73,1.7,83.75,1
+20200271,M,0,NA,IP (X),SCHOOL X,B,,B,,D,,,,C,D,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,782,26,3.3,66.25,1
+20200272,M,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,B,,U,,,,C,C,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,816,23,3.7,63.75,1
+20200273,M,0,NA,IP (X),SCHOOL X,A,,,A,,,,,,,,B,,,C,,A,,,,,,,,,,,,A,,,,,,,,,,,,,A,B,Passed,227,78,1.6,85,2
+20200274,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,A,A,Passed,61,94,1.2,88.75,2
+20200275,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,A,,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,2
+20200276,M,0,NA,IP (X),SCHOOL X,A,,C,,B,,,,A,B,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.3,77.5,1
+20200277,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,D,,S,,,,S,E,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,974,8,5,43.75,1
+20200278,F,0,NA,IP (Y),SCHOOL Y,A,,A,,B,,,,B,B,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200279,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,A,A,,,,,,A,,,,,,,,,,,,,,,,,,,,,,ME,,,,,,A,A,Passed,1,100,1,90,3
+20200280,M,0,NA,JAE Ordinary Admission,"SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE",A,,B,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,UC,,,,,A,E,Passed,429,59,1.9,80,2
+20200281,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,D,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,UC,,,,,A,A,Passed,538,49,2.3,77.5,1
+20200282,M,0,NA,IP (X),SCHOOL X,A,A,,,B,,,,B,B,,,,,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200283,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,C,,S,,,B,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,807,24,3.4,65,1
+20200284,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,,S,C,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,909,14,4.3,56.25,2
+20200285,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,121,88,1.2,87.5,1
+20200286,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,,B,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,2
+20200287,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,B,,,,,B,,,,,,,,,,B,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,2.6,76.25,1
+20200288,F,252,NA,DSA (CCA),CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,B,,D,,,,C,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,727,31,3,70,1
+20200289,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,B,,B,,,,C,D,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
+20200290,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,A,A,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200291,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,C,Passed,280,73,1.7,83.75,1
+20200292,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,B,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,572,46,2.6,76.25,1
+20200293,M,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,B,,D,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,2.1,80,1
+20200294,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,D,,E,,C,D,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,A,B,Passed,748,29,3,68.75,1
+20200295,F,0,NA,IP (Y),SCHOOL Y,A,,C,,D,,C,U,,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,971,8,4.8,45,1
+20200296,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,E,D,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.9,61.25,1
+20200297,F,0,NA,IP (Y),SCHOOL Y,B,,B,,A,,,B,A,,,,,,,,,,,A,,,,,,,,,,,,,,,,,PA,,,,,B,A,Passed,189,82,1.3,86.25,1
+20200298,M,0,NA,DSA,NAN CHIAU HIGH SCHOOL,A,,B,,A,,A,A,,,,,,A,,,,,,,,,,,,,,,,,,,,,DI,,,,,,,A,A,Passed,61,94,1,88.75,1
+20200299,M,247,NA,DSA (CCA),NAN HUA HIGH SCHOOL,B,,C,,B,,,A,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,538,49,2.2,77.5,1
+20200300,M,0,NA,IP (X),SCHOOL X,B,,B,,U,,,,E,,,,,C,,,,,,,,,C,,,,,,,,,,,,,,,,,,,B,B,Passed,899,15,4.2,57.5,1
+20200301,F,0,NA,JAE Ordinary Admission,CEDAR GIRLS' SECONDARY SCHOOL,A,,C,,E,,,B,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,875,17,3.9,60,1
+20200302,F,0,NA,IP (Y),SCHOOL Y,A,,A,,C,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,429,59,2.1,80,1
+20200303,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,A,A,Passed,328,69,1.7,82.5,1
+20200304,F,0,NA,IP (Y),SCHOOL Y,A,,C,,E,,,,D,C,,,,,,,,,,,,,D,,,,,,,,,,,,,,,,,,,A,A,Passed,834,21,3.7,62.5,1
+20200305,F,0,NA,JAE Ordinary Admission,YISHUN TOWN SECONDARY SCHOOL,A,,B,,A,,,B,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200306,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200307,M,0,NA,IP (X),SCHOOL X,A,,C,,C,,,D,C,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.2,66.25,1
+20200308,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,C,,B,,,C,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,708,33,2.8,71.25,1
+20200309,F,0,NA,IP (Y),SCHOOL Y,B,,B,,U,,,,,,C,,,C,,E,,,,,,,,,,,,,,,,,,,,,,,,,,B,C,Passed,899,15,4.2,57.5,1
+20200310,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,E,,,D,B,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.8,73.75,1
+20200311,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200312,F,0,NA,IP (Y),SCHOOL Y,B,,B,,C,,,C,D,,,,,,,,,,,,,,D,,,,,,,,,,,,,,,,,,,B,A,Passed,782,26,3.3,66.25,1
+20200313,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,,U,U,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,984,7,5.2,41.25,1
+20200314,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,61,94,1,88.75,1
+20200315,M,0,NA,IP (X),SCHOOL X,B,,B,,E,,,,C,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,727,31,3.1,70,1
+20200316,F,0,NA,IP (Y),SCHOOL Y,B,,A,,A,,,,,,,A,,,,,A,,,,,,B,,,,,,,,,,,,,,,,,,,B,A,Passed,121,88,1.3,87.5,1
+20200317,F,0,NA,IP (Y),SCHOOL Y,A,,D,,A,,A,A,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.2,85,1
+20200318,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,B,,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200319,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,C,C,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,2.3,76.25,2
+20200320,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,,,,,,,,,,,,,A,,,,,,,,,,ME,,,,,,A,A,Passed,1,100,1,90,1
+20200321,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200322,F,0,NA,IP (Y),SCHOOL Y,A,,C,,A,,,A,B,,,,,S,,,,,,,,,,,,,,,,,,,,,,PA,,,,,,A,A,Passed,538,49,2.3,77.5,1
+20200323,M,253,NA,DSA,CATHOLIC HIGH SCHOOL,A,,A,,D,,,,,,,B,,,C,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,572,46,2.6,76.25,2
+20200324,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,B,B,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,636,40,2.8,73.75,1
+20200325,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,D,C,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,944,11,4.6,51.25,1
+20200326,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,394,62,1.9,81.25,1
+20200327,F,0,NA,IP (Y),SCHOOL Y,A,,B,,U,,,,,,B,,,D,,,,C,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,816,23,3.7,63.75,1
+20200328,F,0,NA,IP (Y),SCHOOL Y,B,,C,,A,,,B,A,,,,,,,,,C,,,,,,,,,,,,,,,,,,,UC,,,,,B,A,Passed,394,62,1.8,81.25,1
+20200329,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,,,,,,,,,,S,,,,C,,,,C,,,,,,,A,,,,,,,,,,,,,A,A,Passed,834,21,3.3,62.5,1
+20200330,F,0,NA,IP (Y),SCHOOL Y,A,,D,,A,,,,B,A,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.2,85,1
+20200331,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,A,,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200332,M,0,NA,IP (X),SCHOOL X,A,,A,,U,,,,C,E,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,899,15,4.3,57.5,1
+20200333,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,C,Passed,61,94,1,88.75,2
+20200334,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,1
+20200335,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200336,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,A,A,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200337,F,242,NA,DSA,SWISS COTTAGE SECONDARY SCHOOL,A,,A,,B,,,,,,,A,,,E,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,429,59,2.3,80,2
+20200338,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,1,100,1,90,2
+20200339,M,0,NA,IP (X),SCHOOL X,A,,C,,U,,,,,,,,,D,,C,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,971,8,4.1,45,1
+20200340,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,B,C,,,,,,,,,,,,,,B,,,,,,,,,,,,UC,,,,,,,A,A,Passed,328,69,1.9,82.5,1
+20200341,F,0,NA,IP (Y),SCHOOL Y,A,,D,,E,,,S,U,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,984,7,5.2,41.25,2
+20200342,M,0,NA,IP (X),SCHOOL X,A,,B,,U,,,U,U,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,D,Failed,1046,1,6.3,18.75,1
+20200343,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,61,94,1,88.75,2
+20200344,F,0,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,A,,,,B,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,2.1,80,2
+20200345,M,0,NA,IP (X),SCHOOL X,B,,C,,U,,,U,S,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,D,Failed,1026,3,6,26.25,1
+20200346,M,254,Repeat Yr2,IP (X),SCHOOL X,C,,MC,,EX,,,MC,EX,,,,,,,,,,,,,,,,,,,,,,,,EX,,,,,,,,,C,S,NA,1060,0,3,7.5,0
+20200347,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,D,D,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,766,27,3.2,67.5,1
+20200348,M,0,NA,IP (X),SCHOOL X,A,,B,,S,,,,E,D,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,909,14,4.3,56.25,1
+20200349,M,0,NA,IP (X),SCHOOL X,B,,A,,B,,,,B,B,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,429,59,2,80,1
+20200350,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,,,,B,,,A,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.3,78.75,1
+20200351,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,B,A,,,,,,,,,,,,,,C,,,,,,,,,,,,,UC,,,,,,B,A,Passed,328,69,1.8,82.5,1
+20200352,M,0,NA,JAE Ordinary Admission,BOWEN SECONDARY SCHOOL,A,,B,,A,,,A,B,,,,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,328,69,1.9,82.5,1
+20200353,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,,,,,,,,,,,,,A,,,,,,,,,,,ME,,,,,A,A,Passed,61,94,1,88.75,1
+20200354,M,0,NA,DSA (CCA),BUKIT PANJANG GOVT. HIGH SCHOOL,A,,B,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200355,M,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,B,,D,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,PA,,,,,,B,C,Passed,608,42,2.2,75,1
+20200356,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,PA,,,,,,,A,A,Passed,121,88,1.4,87.5,2
+20200357,M,259,Repeat Yr1,IP (X),SCHOOL X,,,B,,U,,,,,,D,,,,,,,E,,,,,,,,,,,,,,,S,,,,,,,,,,A,Passed,1012,4,5.4,33.75,1
+20200358,F,0,NA,IP (Y),SCHOOL Y,A,,C,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,ME,,,,,,,A,A,Passed,121,88,1,87.5,1
+20200359,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200360,F,0,NA,IP (Y),SCHOOL Y,A,,B,,D,,,E,E,,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.9,61.25,1
+20200361,F,0,NA,JAE Ordinary Admission,ANDERSON SECONDARY SCHOOL,A,,A,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,A,Passed,61,94,1.2,88.75,1
+20200362,M,0,NA,IP (X),SCHOOL X,A,,B,,D,,,,C,C,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,782,26,3.4,66.25,1
+20200363,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,A,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200364,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,A,A,Passed,61,94,1.2,88.75,1
+20200365,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,1
+20200366,M,0,NA,IP (X),SCHOOL X,A,,D,,D,,,U,D,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,927,12,4.3,53.75,0
+20200367,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,1
+20200368,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,B,,,,,B,,C,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,1
+20200369,F,0,NA,IP (Y),SCHOOL Y,B,,B,,,,,,,,B,,,E,,,,C,,,,,,,,,,,C,,,,,,,,,,,,,B,A,Passed,766,27,3.1,67.5,2
+20200370,M,0,NA,JAE Ordinary Admission,TANJONG KATONG SECONDARY SCHOOL,A,,B,,E,,,,B,B,B,,,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,S,Passed,572,46,2.6,76.25,1
+20200371,M,0,NA,JAE Ordinary Admission,CATHOLIC HIGH SCHOOL,A,,B,,A,,,A,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,227,78,1.7,85,1
+20200372,M,0,NA,IP (X),SCHOOL X,B,,A,,B,,,,B,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,489,54,2.2,78.75,1
+20200373,M,0,NA,IP (X),SCHOOL X,A,,C,,U,,,,S,E,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,980,7,5.2,42.5,1
+20200374,M,233,NA,DSA,CLEMENTI TOWN SECONDARY SCHOOL,A,,B,,B,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,A,B,Passed,280,73,1.7,83.75,1
+20200375,M,0,NA,IP (X),SCHOOL X,A,A,,,C,,,,,,,,,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.7,82.5,1
+20200376,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200377,M,244,NA,DSA (CCA),SCHOOL X,B,,B,,,,,,,,C,,,E,,,,D,,,,,,,,,,,E,,,,,,,,,,,,,B,D,Passed,875,17,3.9,60,1
+20200378,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,A,A,Passed,1,100,1,90,1
+20200379,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200380,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,B,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,1
+20200381,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200382,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,,,,B,,,B,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,2
+20200383,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,B,E,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,852,19,3.9,61.25,1
+20200384,M,0,NA,IP (X),SCHOOL X,A,,A,,C,,,B,,,,,,,,B,,,,,,,,,,,,,,,,,A,,,,,,,,,A,D,Passed,429,59,2,80,1
+20200385,M,0,NA,IP (X),SCHOOL X,A,A,,,A,,,B,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,227,78,1.4,85,2
+20200386,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,121,88,1.2,87.5,1
+20200387,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,A,B,Passed,121,88,1.2,87.5,1
+20200388,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200389,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,489,54,2.1,78.75,1
+20200390,M,0,NA,IP (X),SCHOOL X,A,,A,,B,,,B,C,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,2.1,80,1
+20200391,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,B,,D,,,,D,B,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,766,27,3.2,67.5,1
+20200392,F,0,NA,JAE Ordinary Admission,ZHONGHUA SECONDARY SCHOOL,A,,B,,E,,,,E,C,,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,A,D,Passed,816,23,3.7,63.75,1
+20200393,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,1
+20200394,M,244,NA,DSA (CCA),CATHOLIC HIGH SCHOOL,A,,E,,U,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,,A,A,Failed,1038,2,5.9,21.25,1
+20200395,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,B,E,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,816,23,3.7,63.75,1
+20200396,F,0,NA,JAE Ordinary Admission,SWISS COTTAGE SECONDARY SCHOOL,A,,C,,,,,,E,D,,,,E,,,,,,,,,,,,,,,B,,,,,,,,,,,,,A,B,Passed,884,16,3.9,58.75,1
+20200397,F,0,NA,IP (Y),SCHOOL Y,A,,,A,,,,,,,,A,,,D,,,,A,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.7,82.5,2
+20200398,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,C,E,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,782,26,3.4,66.25,1
+20200399,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,A,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.9,82.5,1
+20200400,M,0,NA,IP (X),SCHOOL X,B,,C,,A,,A,B,,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,D,Passed,429,59,2,80,1
+20200401,M,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,C,,U,,,S,U,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Failed,1023,3,5.9,27.5,1
+20200402,M,0,NA,IP (X),SCHOOL X,A,,MC,,MC,,,EX,,,,,,EX,,,,,,,,,,,,,,,,,MC,,,,,,,,,,,A,B,Failed,1056,0,1,10,0
+20200403,M,0,NA,IP (X),SCHOOL X,A,,C,,B,,,D,C,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,807,24,3.4,65,1
+20200404,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,328,69,1.9,82.5,1
+20200405,F,0,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),A,,A,,C,,,,B,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.9,82.5,1
+20200406,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,A,,B,,,,,D,,,,,,,,,,,,,,,,,,,,,ME,,,,,,,A,C,Passed,328,69,1.9,82.5,1
+20200407,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,A,A,,,,,,A,,,,,,,,,,,,,,,,,,,,,ME,,,,,,,A,B,Passed,61,94,1,88.75,1
+20200408,F,0,NA,JAE Ordinary Admission,CRESCENT GIRLS' SCHOOL,A,,A,,S,,,U,U,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,E,Passed,997,6,5.4,37.5,1
+20200409,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,D,D,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,766,27,3.2,67.5,1
+20200410,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,A,B,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,2
+20200411,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,E,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,636,40,2.8,73.75,1
+20200412,F,0,NA,IP (Y),SCHOOL Y,A,,C,,U,,,D,S,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,,A,E,Passed,984,7,4.9,41.25,0
+20200413,F,0,NA,IP (Y),SCHOOL Y,B,,C,,E,,,E,S,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,952,10,4.9,48.75,1
+20200414,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,189,82,1.4,86.25,1
+20200415,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,A,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,A,A,Passed,1,100,1,90,1
+20200416,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,A,,A,,,,A,B,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,61,94,1.2,88.75,1
+20200417,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,B,,,,,,,,D,,,E,,D,,,,,,,,,,,,,B,,,,,,,,,,,,,A,C,Passed,834,21,3.6,62.5,1
+20200418,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,C,,U,,,,S,E,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,1014,4,5.7,32.5,1
+20200419,M,0,NA,IP (X),SCHOOL X,A,,B,,E,,,C,B,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,782,26,3.4,66.25,1
+20200420,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,3
+20200421,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,A,,,,,A,,,,,,A,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,2
+20200422,F,0,NA,IP (Y),SCHOOL Y,A,,,A,C,,,,,,,A,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,538,49,2.1,77.5,2
+20200423,F,0,NA,JAE Ordinary Admission,CHIJ KATONG CONVENT,A,,C,,S,,,,D,E,,,,,,,,,,,,D,,,,,,,,,,,,,,,,,,,,A,A,Passed,920,13,4.3,55,1
+20200424,F,0,NA,IP (Y),SCHOOL Y,A,,,A,B,,,,,,,B,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,538,49,2.1,77.5,1
+20200425,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,D,,A,,,D,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,608,42,2.3,75,1
+20200426,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,DI,,,,,,,A,A,Passed,61,94,1.2,88.75,2
+20200427,F,0,NA,IP (Y),SCHOOL Y,A,,C,,U,,,,U,U,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Failed,1051,1,6.3,17.5,1
+20200428,M,246,Repeat Yr1,DSA (CCA),RAFFLES INSTITUTION,,,C,,C,,,E,C,,,,,,,,,,,,,,,,,,,,,,,,B,,,,,,,,,,E,Passed,909,14,3.4,56.25,1
+20200429,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,B,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,1
+20200430,M,0,NA,IP (X),SCHOOL X,A,,B,,B,,,,,,,B,,,C,,B,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,489,54,2.1,78.75,1
+20200431,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,C,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200432,M,0,NA,IP (X),SCHOOL X,A,,,A,A,,,,,,,A,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,1,100,1,90,1
+20200433,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,A,A,,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,DI,,,A,A,Passed,61,94,1.2,88.75,1
+20200434,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,C,,D,,,,D,E,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,834,21,3.7,62.5,1
+20200435,M,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,B,,C,,A,,,,D,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,608,42,2.4,75,1
+20200436,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,DI,,,,,A,A,Passed,1,100,1,90,1
+20200437,F,0,NA,IP (Y),SCHOOL Y,A,A,,,B,,,,B,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,429,59,1.9,80,1
+20200438,F,0,NA,IP (Y),SCHOOL Y,B,,B,,A,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,489,54,2.2,78.75,1
+20200439,F,232,NA,DSA (CCA),METHODIST GIRLS' SCHOOL (SECONDARY),A,,B,,A,,,,,,A,,,B,,A,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200440,M,0,NA,IP (X),SCHOOL X,B,,B,,C,,,,E,E,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,Passed,834,21,3.8,62.5,1
+20200441,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200442,F,0,NA,JAE Ordinary Admission,NAN CHIAU HIGH SCHOOL,A,,C,,D,,,,B,B,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,636,40,2.6,73.75,1
+20200443,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,U,,,,,,,,,,,,,B,,B,,,,,,,,,,,,,,,,,,A,A,Passed,748,29,3.2,68.75,1
+20200444,F,0,NA,JAE Ordinary Admission,BUKIT PANJANG GOVT. HIGH SCHOOL,A,,C,,U,,,,B,D,,,,,,,,,,,,E,,,,,,,,,,,,,,,,,,,,A,A,Passed,899,15,4.1,57.5,1
+20200445,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,,A,A,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200446,F,0,NA,IP (Y),SCHOOL Y,A,,A,,D,,,,,,,A,,,C,,A,,,,,,,,,,,,,,,,,,,,,,,,,A,C,Passed,394,62,2.1,81.25,1
+20200447,F,0,NA,JAE Ordinary Admission,PRESBYTERIAN HIGH SCHOOL,B,,B,,A,,,,A,A,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,189,82,1.3,86.25,1
+20200448,M,0,NA,IP (X),SCHOOL X,B,,B,,U,,,,,,,,,D,,C,,,,,,,,,,,,,,,,A,,,,,,,,,,B,B,Passed,920,13,3.9,55,2
+20200449,M,0,NA,IP (X),SCHOOL X,A,,C,,S,,S,,D,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,990,6,5.2,40,1
+20200450,F,0,NA,JAE Ordinary Admission,CHIJ SECONDARY (TOA PAYOH),A,,D,,U,,,,U,U,,,,,,,,,,,,,,,,,,,,,,,,E,,,,,,,,A,A,Failed,1038,2,6,21.25,1
+20200451,F,0,NA,JAE Ordinary Admission,TANJONG KATONG GIRLS' SCHOOL,A,,B,,A,,,,B,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200452,F,0,NA,IP (Y),SCHOOL Y,A,,A,,A,,,,A,A,,,,,,,,,,,,,A,,,,,,,,,,,,,,,DI,,,,A,A,Passed,1,100,1,90,1
+20200453,F,0,NA,IP (Y),SCHOOL Y,A,,A,,B,,,B,C,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,538,49,2.3,77.5,1
+20200454,M,0,NA,IP (X),SCHOOL X,B,,B,,A,,,B,,,,,,,,,,,,A,,,,B,,,,,,,,,,,,,,,,ME,,B,A,Passed,280,73,1.6,83.75,1
+20200455,F,0,NA,IP (Y),SCHOOL Y,A,,C,,C,,B,E,,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,807,24,3.4,65,1
+20200456,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,A,,,A,,A,,,,,,,,,,,,,,,,,,ME,,,,,,,A,A,Passed,1,100,1,90,2
+20200457,F,0,NA,IP (Y),SCHOOL Y,A,,B,,E,,,,,,,B,A,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,2.6,76.25,1
+20200458,M,0,NA,IP (X),SCHOOL X,B,,B,,D,,,,,,D,,,,,,,U,,,,E,,,,,,,,,,,,,,,,,,,,B,A,Passed,936,11,4.7,52.5,1
+20200459,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,D,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,608,42,2.6,75,1
+20200460,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,429,59,1.9,80,1
+20200461,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,,,A,A,Passed,489,54,1,78.75,1
+20200462,M,0,NA,IP (X),SCHOOL X,A,,E,,C,,,S,B,,,,,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,875,17,3.7,60,1
+20200463,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,121,88,1.2,87.5,1
+20200464,F,0,NA,JAE Ordinary Admission,METHODIST GIRLS' SCHOOL (SECONDARY),B,,B,,D,,,U,B,,,,,U,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,960,9,4.7,47.5,1
+20200465,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,B,A,,,,,D,,,,,,,,,,,,,,,,,,,,,,,ME,,,,,A,B,Passed,280,73,1.9,83.75,1
+20200466,F,0,NA,IP (Y),SCHOOL Y,B,,C,,B,,,C,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,676,36,2.7,72.5,2
+20200467,M,0,NA,IP (X),SCHOOL X,A,,C,,A,,,B,B,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,489,54,2.1,78.75,1
+20200468,F,0,NA,IP (Y),SCHOOL Y,A,,B,,S,,,,D,C,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,782,26,3.4,66.25,1
+20200469,M,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,B,,B,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,280,73,1.7,83.75,2
+20200470,F,0,NA,JAE Ordinary Admission,NAN HUA HIGH SCHOOL,A,,A,,A,,,A,A,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,121,88,1.4,87.5,1
+20200471,F,0,NA,IP (Y),SCHOOL Y,B,,B,,A,,,B,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,A,Passed,676,36,1.7,72.5,1
+20200472,F,0,NA,IP (Y),SCHOOL Y,A,,A,,,,,,,,B,,,E,,,,D,,,,,,,,,,,B,,,,,,,,,,,,,A,A,Passed,748,29,3.1,68.75,1
+20200473,F,263,NA,DSA (CCA),CEDAR GIRLS' SECONDARY SCHOOL,A,,B,,S,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,708,33,3,71.25,1
+20200474,M,0,NA,JAE Ordinary Admission,VICTORIA SCHOOL,A,,B,,A,,,A,A,,,,,B,,,,,,,,,,,,,,,,,,,,,PA,,,,,,,A,A,Passed,121,88,1.2,87.5,1
+20200475,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,C,B,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,489,54,2.1,78.75,1
+20200476,F,0,NA,JAE Ordinary Admission,CHUNG CHENG HIGH SCHOOL (MAIN),A,,B,,C,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,394,62,1.9,81.25,1
+20200477,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,B,C,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,DI,,A,B,Passed,280,73,1.7,83.75,1
+20200478,F,0,NA,JAE Ordinary Admission,CHIJ ST. NICHOLAS GIRLS' SCHOOL,A,,A,,C,,,,,,,,,B,,B,,,,,,,,,,,,,,,A,,,,,,,,,,,A,B,Passed,429,59,2,80,1
+20200479,M,0,NA,IP (X),SCHOOL X,A,,C,,E,,,S,E,,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,936,11,4.6,52.5,1
+20200480,M,0,NA,JAE Ordinary Admission,ANDERSON SECONDARY SCHOOL,A,,B,,A,,,A,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,227,78,1.4,85,1
+20200481,F,0,NA,IP (Y),SCHOOL Y,A,,C,,S,,,,B,C,,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,807,24,3.4,65,1
+20200482,M,0,NA,IP (X),SCHOOL X,A,,B,,A,,,,A,A,,,,C,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,189,82,1.4,86.25,1
+20200483,F,0,NA,IP (Y),SCHOOL Y,A,,B,,C,,,,B,B,,,,C,,,,,,,,,,,,,,,,,,,,,UC,,,,,,,A,A,Passed,572,46,2.3,76.25,1
+20200484,M,0,NA,IP (X),SCHOOL X,A,,B,,S,,,,C,C,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,909,14,4.1,56.25,2
+20200485,M,0,Repeat Yr2,JAE Ordinary Admission,LOYANG VIEW SECONDARY SCHOOL,B,,E,,MC,,,U,,,,,,,,,,,,,,C,,,,,,,,,,,EX,,,,,,,,,B,A,Failed,1022,3,4.4,28.75,0
+20200486,F,0,NA,JAE Ordinary Admission,BUKIT MERAH SECONDARY SCHOOL,A,,B,,S,,,,,,,,D,D,,C,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,852,19,3.9,61.25,1
+20200487,F,0,NA,IP (Y),SCHOOL Y,A,,D,,A,,,,A,B,,,,B,,,,,,,,,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,328,69,1.4,82.5,1
+20200488,F,0,NA,IP (Y),SCHOOL Y,A,A,,,A,A,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,1,100,1,90,2
+20200489,M,0,NA,IP (X),SCHOOL X,A,,C,,U,,,E,,,,,,C,,,,,,A,,,,,,,,,,,,,,,,,,,,UC,,A,A,Passed,834,21,3.7,62.5,1
+20200490,M,0,NA,JAE Ordinary Admission,MONTFORT SECONDARY SCHOOL,A,,S,,B,,A,B,,,,,,,,,,,,,,,B,,,,,,,,,,,,,,,,,,,A,A,Passed,572,46,1.7,76.25,1
+20200491,F,0,NA,JAE Ordinary Admission,JUNYUAN SECONDARY SCHOOL,A,,C,,A,,,,A,B,,,,,,,,,,,,B,,,,,,,,,,,,,,,PA,,,,,A,A,Passed,280,73,1.4,83.75,1
+20200492,M,0,NA,IP (X),SCHOOL X,B,,D,,U,,U,,,,,,,,,,,,,,,E,,,,,,,,S,,,,,,,,,,,,B,A,Failed,1023,3,5.8,27.5,1
+20200493,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,EX,,,A,A,Passed,1,100,1,90,1
+20200494,F,0,NA,DSA,METHODIST GIRLS' SCHOOL (SECONDARY),A,,A,,A,,,,A,A,,,,A,,,,,,,,,,,,,,,,,,,,,,,,DI,,,,A,A,Passed,1,100,1,90,1
+20200495,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,B,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,394,62,1.9,81.25,1
+20200496,F,0,NA,IP (Y),SCHOOL Y,A,,B,,A,,,B,B,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,328,69,1.7,82.5,1
+20200497,M,0,NA,IP (X),SCHOOL X,A,,A,,A,,,,,,,B,,,B,,A,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,189,82,1.4,86.25,2
+20200498,F,0,NA,IP (Y),SCHOOL Y,A,,B,,B,,,,D,C,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,ME,,A,A,Passed,538,49,2.3,77.5,2
+20200499,F,0,NA,IP (Y),SCHOOL Y,A,,B,,D,,,,C,C,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,B,Passed,727,31,3,70,1
+20200500,F,0,NA,JAE Ordinary Admission,SWISS COTTAGE SECONDARY SCHOOL,A,,B,,D,,,,D,,,,,C,,,,A,,,,,,,,,,,,,,,,,,,,,,,,A,A,Passed,676,36,2.8,72.5,1
