@@ -77,5 +77,7 @@ The Logistic Regression models do better than the benchmarks at predicting grade
 |18|Benchmark|81.0%|97.5%|2.5%|9.1%|9.9%|
 |19|Logistic Regression|78.4%|96.6%|3.4%|12.0%|9.6%|
 |19|Benchmark|77.6%|95.9%|4.1%|10.3%|12.1%|
+|20|Logistic Regression|80.4%|97.3%|2.7%|12.4%|7.1%|
+|20|Benchmark|80.7%|97.3%|2.7%|10.1%|9.1%|
 
 ---
